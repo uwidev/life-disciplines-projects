@@ -54,6 +54,9 @@ Assuming the initial setup of Life and Disciplines are complete, my general work
 
 Fairly straight forward process for Projects and Tasks.
 
+## How to get started
+Navigate to [Obsidian's Website](https://obsidian.md/) and download the program. Install it and then download the source code of this project from releases on the right. Extract it to a folder and then open Obsidian. Click on "Open folder as vault" and navigate to the folder that you extracted the source code to. Read the first note you see and continue from there.
+
 ## Suggestions and Concerns
 DM me though the [Obsidian Community Discord](https://discord.com/invite/veuWUTm). Join the server and you should be able to mention or DM me. **Please don't add me as a friend.**
 
