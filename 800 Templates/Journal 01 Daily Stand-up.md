@@ -1,12 +1,14 @@
 ---
 tags: [ note/data ]
 ---
-[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title.split(" ")[0], "YYYY-MM-DD") %>> Stand-up]] | [[<% tp.file.title.split(" ")[0] %>|Ramblings]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title.split(" ")[0], "YYYY-MM-DD") %> Stand-up]]
+[[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title.split(" ")[0], "YYYY-MM-DD") %> Stand-up]] | [[<% tp.file.title.split(" ")[0] %>|Ramblings]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title.split(" ")[0], "YYYY-MM-DD") %> Stand-up]]
 # <% tp.date.now("YYYY-MM-DD dddd", 0, tp.file.title, "YYYY-MM-DD") %> Stand-up
 ## Review
 ### Projects you touched yesterday
 ```dataview
-TABLE status as "Status",
+TABLE WITHOUT ID
+	link(file.name, default(link(file.name).aliases, file.name)) as "Project",
+	status as "Status",
 	due as "Due",
 	priority as "Priority"
 FROM #note/project
@@ -74,7 +76,7 @@ description includes #blocking
 `Explicitly respond here.`
 
 ### What is your focus today?
-[[Tasks Ongoing]] [[OLD Backlog]]
+[[Tasks Ongoing]] [[90 🗃️ Master Backlog]]
 
 `Answere here. This should be a general focus, not specific tasks.`
 
