@@ -1,9 +1,7 @@
 ---
 aliases: 💡 Ramblings Example Habit
-tags: [ note/data ]
+tags: [ note/data, example_discipline ]
 ---
-> Make sure you set the YAML `tags` correctly so queries work. Delete this when set.
-
 [[00 ✨ Example Habit]] | [[01 🌊 Tasks Example Habit]]
 # 💡 Ramblings Example Habit
 ## some date

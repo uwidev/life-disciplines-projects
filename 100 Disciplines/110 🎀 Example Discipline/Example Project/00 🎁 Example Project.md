@@ -2,15 +2,13 @@
 aliases: 🎁 Example Project
 tags: [ note/dashboard, note/project, example_discipline ]
 discipline: [[110 🎀 Example Discipline]]
-status: 02 Planned
-start: 
+status: 00 Ongoing
+start: 2021-10-02
 due: 
 end: 
 priority: 00
-objective: # one sentence explaining what this project is, why it is needed, and how it's to be done
+objective: one sentence explaining what this project is, why it is needed, and how it's to be done
 ---
-> On the frontmatter above, turn the value under Discipline into a regular string. Then delete this.
-
 [[110 🎀 Example Discipline]] | [[01 🌊 Tasks Example Project]] | [[02 💡 Ramblings Example Project]]
 # 🎁 Example Project
 ```dataview

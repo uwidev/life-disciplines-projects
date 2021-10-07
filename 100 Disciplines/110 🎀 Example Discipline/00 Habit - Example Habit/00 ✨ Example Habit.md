@@ -1,16 +1,14 @@
 ---
 aliases: ✨ Example Habit
 tags: [ note/dashboard, note/project, note/habit, example_discipline ]
-discipline: [[110 🎀 Example Discipline]]
-status: [ 02 Planned ]
-start: 
+discipline: 110 🎀 Example Discipline
+status: 00 Ongoing
+start: 2021-10-06
 due: .inf
 end: 
 objective: blah blah blah 
 when: 
 ---
-> On the frontmatter above, turn the value under Discipline into a regular string. Then delete this.
-
 [[110 🎀 Example Discipline]] | [[01 🌊 Tasks Example Habit]] | [[02 💡 Ramblings Example Habit]]
 # ✨ Example Habit
 ```dataview

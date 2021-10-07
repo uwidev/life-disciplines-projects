@@ -1,13 +1,11 @@
 ---
 aliases: 🌊 Tasks Example Discipline
-tags: [ note/data ]
+tags: [ note/data, example_discipline ]
 ---
-> Make sure you set the YAML `tags` correctly so queries work. Delete this when set.
-
 [[110 🎀 Example Discipline]] | [[112 💡 Ramblings Example Discipline]]
 # 🌊 Tasks Example Discipline
 ## Raw
-- [ ] Tasks go here
+- [ ] #task #p01 #30m plan a next project for this discipline #ongoing 
 
 ## Archived
-- [ ] Archived tasks go here
+- [x] #task #p01 #15m example projects set up #ongoing  ✅ 2021-10-07

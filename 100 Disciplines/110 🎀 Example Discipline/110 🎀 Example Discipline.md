@@ -1,6 +1,6 @@
 ---
 aliases: 🎀 Example Discipline
-tags: [ note/dashboard, note/discipline, example_discipline ]
+tags: [ note/dashboard, note/discipline, note/ikigai, example_discipline ]
 ikigai: 
   - love
   - skill
@@ -9,8 +9,6 @@ ikigai:
 pillars: List 3-8 key values that you want to uphold or eventually uphold to. They should be numbered to indicate priorities. This should also be in the YAML, but in the same order as an unordered list.
 dynamic: This is the emerging result of the pillars when viewed together.
 ---
-> Make sure you set the YAML pillars and disciplines once realized. Delete this when afterwards.
-
 [[00 🏠 Main Dashboard]] | [[111 🌊 Tasks Example Discipline]] | [[112 💡 Ramblings Example Discipline]]
 # 🎀 Example Discipline
 ## Abstract
@@ -20,6 +18,8 @@ Continue with a brief description of what this discipline entails.
 
 ## Importance and Relevance
 How is this Discipline important and relevant to you? How and why did you choose the Ikigai characteristics above under the frontmatter YAML? What is your purpose of having this as a Discipline?
+
+#resume (resume example) finish elaboring on what this is
 
 ## Core
 ```dataview

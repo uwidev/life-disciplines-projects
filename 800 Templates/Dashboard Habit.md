@@ -2,7 +2,7 @@
 aliases: {{VALUE:Source Emoji}} {{VALUE:Source Base Name}}
 tags: [ note/dashboard, note/project, note/habit, {{VALUE:Source Discipline's Tag (No hashtag}} ]
 discipline: {{VALUE:Link to corresponding Discipline}}
-status: [ 02 Planned ]
+status: 02 Planned
 start: 
 due: .inf
 end: 
