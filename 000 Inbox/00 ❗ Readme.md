@@ -1,14 +1,15 @@
 ---
 aliases: 
 tags: [ note/info ]
+version: 0.1.3
 ---
 # Hello!
-Welcome to Life-Disciplines-Projects v0.1 (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi[(https://twitter.com/uwidev). This note serves to explain the theory of LDP and its workflow to my best of his ability.
+Welcome to Life-Disciplines-Projects (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi[(https://twitter.com/uwidev). This note serves to explain the theory of LDP and its workflow to my best of his ability.
 
 *Name LDP not final. I'm open to suggestions.*
 
 ## Preface
-This contains some additional sections relevant to this Vault now that there's more context. You can skip the sections you've already read.
+**This note contains some additional sections relevant to this Vault now that there's more context. You can skip the sections you've already read from [[README]].**
 
 ### Please don't just copy me
 **My life is not your life.** I have provided a lot of resources that serve to supplement my model of how to efficiently manage my life. I tried my best to generalize the ideas, but regardless, do not mindlessly follow the motion of the notes I provide. Instead, transform it into something that works with your own views of how life should operate.
