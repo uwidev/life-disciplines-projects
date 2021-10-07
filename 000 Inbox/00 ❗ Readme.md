@@ -1,7 +1,7 @@
 ---
 aliases: 
 tags: [ note/info ]
-version: 0.1.3
+version: 0.1.2
 ---
 # Hello!
 Welcome to Life-Disciplines-Projects (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi[(https://twitter.com/uwidev). This note serves to explain the theory of LDP and its workflow to my best of his ability.
