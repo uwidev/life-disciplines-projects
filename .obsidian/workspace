@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "9461fb4fd719e0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f491cea86c7f7b96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Inbox/00 ❗ Readme.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "617303f2f182a3bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "86da0a92365affaf",
+        "type": "tabs",
+        "dimension": 22.565543071161052,
+        "children": [
+          {
+            "id": "47852916ae5bebee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a670690c1135b2bb",
+        "type": "tabs",
+        "dimension": 77.43445692883894,
+        "children": [
+          {
+            "id": "fa11ae403f88cd9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e54b1d98790c0e3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e28cb742ca38d24c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304
+  },
+  "right": {
+    "id": "36aa89e907fd6bc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2c7c229e5d22d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a2297c4248b84a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Inbox/00 ❗ Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a853884b70beb523",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Inbox/00 ❗ Readme.md"
+              }
+            }
+          },
+          {
+            "id": "dd85083b98e96ebb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "221c1a9bfdcd9bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2198e8140483c9c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Tasks Ongoing.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "6263f959afaffe0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Habits (View).md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f491cea86c7f7b96",
+  "lastOpenFiles": [
+    "000 Inbox/00 ❗ Readme.md",
+    "999 Setup/01 🔀 Divergence to Disciplines.md",
+    "999 Setup/00 💗 Defining Life.md",
+    "999 Setup/03 🎎 Ikigai Expansion.md",
+    "999 Setup/02 🔂 Convergence to Ikigai.md",
+    "99 💗 Life.md",
+    "2021-10-06 Stand-up.md",
+    "300 Alignment/350 Monthly/2021.md",
+    "800 Templates/Journal 00 Daily.md",
+    "300 Alignment/340 Quarterly/2021-Q4.md"
+  ]
+}

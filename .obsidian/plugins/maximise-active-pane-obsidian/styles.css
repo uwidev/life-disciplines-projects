@@ -1,0 +1,7 @@
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf:not(.mod-active),
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active ~ .workspace-split {
+  display: none;
+}
+.plugin-maximise-active-pane .workspace-split.maximised .workspace-leaf.mod-active {
+  flex-basis: calc(100% - 4px);
+}

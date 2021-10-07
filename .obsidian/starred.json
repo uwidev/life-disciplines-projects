@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "00 ❗ Readme",
+      "path": "000 Inbox/00 ❗ Readme.md"
+    },
+    {
+      "type": "file",
+      "title": "00 🏠 Main Dashboard",
+      "path": "00 🏠 Main Dashboard.md"
+    },
+    {
+      "type": "file",
+      "title": "00 🔀 Divergence to Disciplines",
+      "path": "999 Setup/00 🔀 Divergence to Disciplines.md"
+    },
+    {
+      "type": "file",
+      "title": "01 🔂 Convergence to Ikigai",
+      "path": "999 Setup/01 🔂 Convergence to Ikigai.md"
+    },
+    {
+      "type": "file",
+      "title": "02 🎎 Ikigai Expansion",
+      "path": "999 Setup/02 🎎 Ikigai Expansion.md"
+    },
+    {
+      "type": "file",
+      "title": "110 🎀 Example Discipline",
+      "path": "100 Disciplines/110 🎀 Example Discipline/110 🎀 Example Discipline.md"
+    },
+    {
+      "type": "file",
+      "title": "00 🎁 Example Project",
+      "path": "100 Disciplines/110 🎀 Example Discipline/Example Project/00 🎁 Example Project.md"
+    },
+    {
+      "type": "file",
+      "title": "00 ✨ Example Habit",
+      "path": "100 Disciplines/110 🎀 Example Discipline/00 Habit - Example Habit/00 ✨ Example Habit.md"
+    }
+  ]
+}

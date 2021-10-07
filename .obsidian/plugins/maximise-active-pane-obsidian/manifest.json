@@ -1,0 +1,8 @@
+{
+  "id": "maximise-active-pane-obsidian",
+  "name": "Maximise Active Pane",
+  "author": "death_au",
+  "description": "Simply fills the workspace with the active pane",
+  "isDesktopOnly": false,
+  "version": "0.0.3"
+}
