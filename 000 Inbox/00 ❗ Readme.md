@@ -3,7 +3,7 @@ aliases:
 tags: [ note/info ]
 ---
 # Hello!
-Welcome to Life-Disciplines-Projects v0.1 (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by **uwi**. This note serves to explain the theory of LDP and its workflow to my best of his ability.
+Welcome to Life-Disciplines-Projects v0.1 (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi[(https://twitter.com/uwidev). This note serves to explain the theory of LDP and its workflow to my best of his ability.
 
 *Name LDP not final. I'm open to suggestions.*
 
@@ -91,7 +91,7 @@ Having it grouped by item type allows for easier searching in the event I never 
 If you like my ideas of this framework, you can start setting up LDP [[00 💗 Defining Life|here]].
 
 ## Suggestions and Concerns
-Please join the [Obsidian Community Discord](https://discord.com/invite/veuWUTm) and contact me at Usara#9999. **Please don't add me as a friend.** You should be able to DM me.
+DM me though the [Obsidian Community Discord](https://discord.com/invite/veuWUTm). Join the server and you should be able to mention or DM me. **Please don't add me as a friend.**
 
 ## More about uwi
 I am a solo indie game developer with a mission of making people cry not because they're say, but because they've witness the beautiful. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
