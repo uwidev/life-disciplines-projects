@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-shortcuts-for-starred-files",
+  "name": "Hotkeys for starred files and searches",
+  "version": "0.0.4",
+  "description": "Set an individual hotkey for the first 9 starred files and searches and open them just with your keyboard.",
+  "author": "Vinzent",
+  "authorUrl": "https://github.com/Vinzent03",
+  "isDesktopOnly": false
+}

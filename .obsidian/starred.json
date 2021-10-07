@@ -39,6 +39,11 @@
       "type": "file",
       "title": "00 ✨ Example Habit",
       "path": "100 Disciplines/110 🎀 Example Discipline/00 Habit - Example Habit/00 ✨ Example Habit.md"
+    },
+    {
+      "type": "file",
+      "title": "90 🗃️ Master Backlog",
+      "path": "90 🗃️ Master Backlog.md"
     }
   ]
 }
