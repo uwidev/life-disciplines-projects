@@ -58,7 +58,7 @@ Fairly straight forward process for Projects and Tasks.
 Navigate to [Obsidian's Website](https://obsidian.md/) and download the program. Install it and then download the source code of this project from releases on the right. Extract it to a folder and then open Obsidian. Click on "Open folder as vault" and navigate to the folder that you extracted the source code to. Read the first note you see and continue from there.
 
 ## Suggestions and Concerns
-DM me though the [Obsidian Community Discord](https://discord.com/invite/veuWUTm). Join the server and you should be able to mention or DM me. **Please don't add me as a friend.**
+DM me though the [Obsidian Community Discord](https://discord.com/invite/veuWUTm). Join the server and you should be able to mention or DM me. **Please don't add me as a friend.** Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
 
 ## More about uwi
 I am a solo indie game developer with a mission of making people cry not because they're say, but because they've witness the beautiful. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
