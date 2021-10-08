@@ -41,7 +41,7 @@ Expands on the Objective, generally discussing the following.
 ## Completion Criteria
 Unlike [[Disciplines]], Projects should eventually come to an end and shouldn't run any longer than 1 month. Since there usually isn't a time-based ending point ([[True Deadlines|True Deadline]]), an end must be defined through some other means.
 
-For Projects, Completion Criteria is as a Well-Defined checklist that cumulate to a shift in the environment or creation of an object. 
+For Projects, a Completion Criteria is a well-defined checklist that cumulate to a shift in the environment or creation of a deliverable. 
 
 Well-Defined as in Requirements can be clearly answered `Yes` or `No` if they have been met. These Requirements should align with the Core.
 
@@ -50,7 +50,15 @@ While there is not hard limit of Completion Criteria count, it should be noted t
 **All Projects should have Completion Criteria, but the Objective should come first.**
 
 ### Groups
-Completion Criteria should also be categorized, or at least tagged under, some broad tagline under the Tag Group `#cc/`. How you group your Completion Criteria, or not at all, is up to you, but for a Project with many [[Tasks]], it's important to be able to Align tasks to at least one Completion Criteria or it's corresponding Group.
+Completion Criteria should also be categorized, or at least tagged under, some broad tagline under the Tag Group `#cc/`. How you group your Completion Criteria, or not at all, is up to you.
+
+This CC Tag Group will be used to align Tasks to this group of CC.
+
+It would seem that grouping by systems works quite will under the context of [[Agile Project Management|Agile]]. This assumes the Project can be decomposed into elements in a [[Systems Thinking|system]]. For example, for [[Life Disciplines Projects]], grouping by various systems allowed for passes on one component until functional, then moved onto the others. There's a final CC Tag Group which is specifically for polish, which consistently and routinely links everything together and makes it presentable.
+
+But in the event a Project can't be decomposed, or it's blocked solely due to time (e.g. other people, government), then grouping by phases could be the better way to go.
+
+There are other various ways to group, do what supports the project.
 
 ## Alignment
 Projects should be routinely reviewed to ensure that they progress towards some [[Pillars|Pillar]] denoted under its corresponding [[Disciplines|Discipline]]. It's suggested to do this review weekly.
@@ -126,3 +134,6 @@ Ceremonies might be used to prepare one's self for adversity that is this Projec
 A simple example of a Ceremony is a set of movements to warm up before a session on a new workout schedule.
 
 See [[Ceremonies]] for full details on how they operate.
+
+## References
+[[99 (OLD) Workflow Overhaul]]

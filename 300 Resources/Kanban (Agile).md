@@ -14,7 +14,7 @@ At the most fundamental level, a Kanban Board should have the following.
 - **Delivery Point**: the result of work
 
 An example of a very simple board can be seen below.
-![[Pasted image 20210914155359.png]]
+![[Pasted image 2021091g4155359.png]]
 
 The very left **Backlog** can be thought of a [[Sprint Backlog]] for [[Scrum (Agile)|Scrum]]. Cards move from left to right as work progresses. These cards should be small enough that one can finish it within a reasonable time-frame.
 

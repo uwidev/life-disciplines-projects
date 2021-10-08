@@ -1,5 +1,5 @@
 ---
-tags: [note/info, 'productivity', 'lifestyle', 'introspection']
+tags: [note/info, 'productivity', 'lifestyle', 'introspection', burnout]
 ---
 # Burnout
 **Burnout** is the state of mental and physical exhaustion caused by an intense prolonged mental stress. This intense prolonged stress can be the result of high working hours, prolonged intense focus, prolonged toxic relationships, and more. Many people have difficult sleeping, irritable, close-minded, and less productive. This loosely shares similar symptoms of [[Depression]].

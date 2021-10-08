@@ -77,3 +77,6 @@ Working on Projects within a Ceremony may *work better* with Ceremonies.
 A simple example of a Ceremony is a set of movements to warm up before Exercise on a Project that follows a new workout schedule.
 
 See [[Ceremonies]] for full details on how they operate.
+
+**Source**
+[[99 (OLD) Workflow Overhaul]]

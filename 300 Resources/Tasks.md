@@ -34,8 +34,6 @@ Ongoing and exclude can go in any order.
 
 `#hb` tags this Task as a Habit.
 
-A tempate [[task]] is included that quickly sets up a template.
-
 ## Completion Criteria Tag
 All tasks under a Project should be tagged with one or more `#cc/group`, where `group` defines the Completion Criteria Group.
 
@@ -86,12 +84,15 @@ With this, allowed Priority Tags are as follows.
 
 ## Estimated Duration
 Tasks will always have an Estimated Duration tag. This is NOT a due date. Allowed duration tags are as follows.
+- `#00m`
 - `#15m`
 - `#30m`
 - `#01h`
 - `#02h`
 
 Estimated should round up. Tasks should never be longer than 2 hours.
+
+`#00m` is reserved for **Reminders**, which are tasks that you estimate take less than 5 minutes to complete.
 
 ## Ongoing
 The Task is currently being worked on should have the `#ongoing` Tag on it.
@@ -128,3 +129,18 @@ There is something wrong if you find that during a Alignment, you find that you 
 
 ## Size
 Tasks themselves should be broken down such that they take no longer than 2 hours to complete. This 2 hour duration is an arbitrary cutoff, and is based on the idea that if a task is expected to take longer than that, there will be some [[Friction]] and reluctance to its undertaking.
+
+## Casual Tasks
+**Casual Tasks** are *reminders* that let you know there's something you need to take care. They should be dealt with soon (<48h) and should be trivial to complete in effort and time. They should not make leeway towards Project Objectives or Discipline [[Pillars|Pillar]], but may uphold a Pillar. If they make leeway, they might be better represented as a task following a Discipline or existing Project.
+
+> You might consider these Casual Tasks as automatically urgent.
+
+Examples include...
+- reminder to buy a specific food because you're out
+- reminder to restock supplement stacks since you ran out
+- reminder to do laundry because you have no clean clothes.
+
+These Tags should be placed somewhere at the Root folder (e.g. Ramblings).
+
+**Source**
+[[99 (OLD) Workflow Overhaul]]
