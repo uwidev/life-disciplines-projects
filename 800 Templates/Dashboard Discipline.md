@@ -90,36 +90,11 @@ description includes #p00
 description does not include #exclude 
 ```
 
-#### Filter Duration
+### Reminder
 ```tasks
 not done
 path includes <% tp.file.folder() %>
-description includes #ongoing 
-description includes #15m
-description does not include #ongoing
-description does not include #exclude 
-```
-```tasks
-not done
-path includes <% tp.file.folder() %>
-description includes #ongoing 
-description includes #30m 
-description does not include #ongoing
-description does not include #exclude 
-```
-```tasks
-not done
-path includes <% tp.file.folder() %>
-description includes #ongoing 
-description includes #01h 
-description does not include #ongoing
-description does not include #exclude 
-```
-```tasks
-not done
-path includes <% tp.file.folder() %>
-description includes #ongoing 
-description includes #02h 
+description includes #00m
 description does not include #ongoing
 description does not include #exclude 
 ```
@@ -156,6 +131,13 @@ description does not include #exclude
 ```
 
 #### Filter Duration
+```tasks
+not done
+path includes <% tp.file.folder() %>
+description includes #00m
+description does not include #ongoing
+description does not include #exclude 
+```
 ```tasks
 not done
 path includes <% tp.file.folder() %>
@@ -228,11 +210,6 @@ hide task count
 ```
 
 ## Resources
-```dataview
-LIST
-FROM #{{VALUE:Source Tag (no hashtag)}}
-	AND -"200 Alignment" 
-	AND -"800 Templates" 
-	AND -"999 Stale"
-	AND -#note/project
+```query
+(tag:#{{VALUE:Source Tag (no hashtag)}}) path:(300 Resources) 
 ```

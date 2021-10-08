@@ -2,7 +2,7 @@
 aliases: {{VALUE:Source Emoji}} {{VALUE:Source Base Name}}
 tags: [ note/dashboard, note/project, note/habit, {{VALUE:Source Discipline's Tag (No hashtag}} ]
 discipline: {{VALUE:Link to corresponding Discipline}}
-status: 02 Planned
+status: [ 02 Planned ]
 start: 
 due: .inf
 end: 
@@ -109,11 +109,12 @@ description includes #p00
 description does not include #exclude 
 ```
 
-#### Filter Due
+### Reminder
 ```tasks
 not done
 path includes <% tp.file.folder() %>
-description includes #ongoing
+description includes #00m
+description does not include #ongoing
 description does not include #exclude 
 ```
 
@@ -152,6 +153,13 @@ description does not include #exclude
 ```tasks
 not done
 path includes <% tp.file.folder() %>
+description includes #00m
+description does not include #ongoing
+description does not include #exclude 
+```
+```tasks
+not done
+path includes <% tp.file.folder() %>
 description includes #15m
 description does not include #ongoing
 description does not include #exclude 
@@ -174,6 +182,14 @@ description does not include #exclude
 not done
 path includes <% tp.file.folder() %>
 description includes #02h 
+description does not include #ongoing
+description does not include #exclude 
+```
+
+#### Filter Due
+```tasks
+not done
+path includes <% tp.file.folder() %>
 description does not include #ongoing
 description does not include #exclude 
 ```
@@ -214,3 +230,6 @@ description does not include #exclude
 done today
 path includes <% tp.file.folder() %>
 ```
+
+## Resources
+This is where you can link all the notes and resources relevant to this Habit.

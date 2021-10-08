@@ -57,11 +57,12 @@ description includes #p00
 description does not include #exclude 
 ```
 
-#### Filter Due
+### Reminder
 ```tasks
 not done
 path includes <% tp.file.folder() %>
-description includes #ongoing
+description includes #00m
+description does not include #ongoing
 description does not include #exclude 
 ```
 
@@ -122,6 +123,14 @@ description does not include #exclude
 not done
 path includes <% tp.file.folder() %>
 description includes #02h 
+description does not include #ongoing
+description does not include #exclude 
+```
+
+#### Filter Due
+```tasks
+not done
+path includes <% tp.file.folder() %>
 description does not include #ongoing
 description does not include #exclude 
 ```
