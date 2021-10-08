@@ -12,19 +12,26 @@ FROM #note/habit
 WHERE contains(list("00 Ongoing", "01 Blocked", "02 Planned"), status)
 ```
 
-## Habits Today
+## Today
 ```tasks
 not done
 due today
 description includes #hb
 ```
 
-## Habits in the next 3 days
+## In the next 3 days
 Does not include repeated tasks
 ```tasks
 not done
 due after today
 due before in 3 days
+description includes #hb
+```
+
+## Overdue
+```tasks
+not done
+due before today
 description includes #hb
 ```
 
