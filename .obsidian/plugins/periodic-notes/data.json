@@ -5,31 +5,31 @@
   "daily": {
     "format": "",
     "template": "",
-    "folder": "300 Alignment/310 Daily",
+    "folder": "200 Alignment/210 Daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "300 Alignment/320 Weekly",
+    "folder": "200 Alignment/220 Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "300 Alignment/330 Monthly",
+    "folder": "200 Alignment/230 Monthly",
     "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": "300 Alignment/340 Quarterly",
+    "folder": "200 Alignment/240 Quarterly",
     "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": "300 Alignment/350 Monthly",
+    "folder": "200 Alignment/250 Yearly",
     "enabled": true
   }
 }

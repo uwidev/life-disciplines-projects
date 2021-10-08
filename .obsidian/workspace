@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b17395fadeb6f461",
+        "id": "7a2c304ca628cedc",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,9 +86,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c7c229e5d22d6e",
+        "id": "5116d57311ec98b6",
         "type": "tabs",
+        "dimension": 38.10861423220974,
         "children": [
+          {
+            "id": "a853884b70beb523",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Inbox/00 ❗ Readme.md"
+              }
+            }
+          },
+          {
+            "id": "dd85083b98e96ebb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
           {
             "id": "16a2297c4248b84a",
             "type": "leaf",
@@ -107,29 +126,47 @@
             }
           },
           {
-            "id": "a853884b70beb523",
+            "id": "3e7ef70c26947fa0",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "localgraph",
               "state": {
-                "file": "000 Inbox/00 ❗ Readme.md"
+                "file": "000 Inbox/00 ❗ Readme.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "path:\"000 Inbox\" OR path:\"300 Resources\" OR path:\"100 Disciplines\" -tag:note/dashboard -file:\"🌊\" -file:\"💡\" -file:\"🔨\"",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.808547008547009,
+                  "repelStrength": 4,
+                  "linkStrength": 0.370940170940171,
+                  "linkDistance": 30,
+                  "scale": 1,
+                  "close": true
+                }
               }
-            }
-          },
-          {
-            "id": "dd85083b98e96ebb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "221c1a9bfdcd9bfe",
         "type": "tabs",
+        "dimension": 61.89138576779026,
         "children": [
           {
             "id": "2198e8140483c9c4",
@@ -152,24 +189,46 @@
                 "mode": "preview"
               }
             }
+          },
+          {
+            "id": "b17395fadeb6f461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Reminder.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "9101501d3e2fc232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Curation.md",
+                "mode": "preview"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269
   },
-  "active": "b17395fadeb6f461",
+  "active": "7a2c304ca628cedc",
   "lastOpenFiles": [
     "000 Inbox/00 ❗ Readme.md",
-    "README.md",
-    "00 🏠 Main Dashboard.md",
     "000 Inbox/Other Useful Functionality.md",
-    "100 Disciplines/110 🎀 Example Discipline/Example Project/00 🎁 Example Project.md",
-    "01 🔁 Habits Dashboard.md",
+    "00 🏠 Main Dashboard.md",
+    "99 💗 Life.md",
     "90 🗃️ Master Backlog.md",
+    "200 Alignment/230 Monthly/2021-10.md",
+    "80 🌊 Tasks Life.md",
+    "01 🔁 Habits Dashboard.md",
     "100 Disciplines/110 🎀 Example Discipline/110 🎀 Example Discipline.md",
-    "300 Alignment/310 Daily/2021-10-07.md",
-    "300 Alignment/310 Daily/2021-10-06.md"
+    "300 Resources/Tasks.md"
   ]
 }

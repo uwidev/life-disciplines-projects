@@ -1,161 +1,6 @@
 {
   "choices": [
     {
-      "id": "c8ae5233-653e-47bb-aa2f-d38fd04af951",
-      "name": "Task",
-      "type": "Multi",
-      "command": false,
-      "choices": [
-        {
-          "id": "1b1237e6-7341-470a-be0f-9c81ca58e43a",
-          "name": "Task Archive to Archived",
-          "type": "Macro",
-          "command": true,
-          "macroId": "472e8d68-1bfe-4d5c-a648-4e64a7457cd1"
-        },
-        {
-          "id": "49527543-4c90-4337-8d1b-99dd3d93dbc6",
-          "name": "Task Add to Project",
-          "type": "Macro",
-          "command": false,
-          "macroId": "9a52ce97-f984-4f60-b23f-5c76a1402ee4"
-        },
-        {
-          "id": "017768bd-6529-4905-ac37-58c456865289",
-          "name": "Task Competed Add Here",
-          "type": "Macro",
-          "command": true,
-          "macroId": "19466a2c-a544-45de-bcb7-a08e52ecb4df"
-        },
-        {
-          "id": "32532062-8fbc-4381-a9e7-cb0d3fa592f5",
-          "name": "Task Add Here",
-          "type": "Macro",
-          "command": true,
-          "macroId": "8abbfb8c-8654-4837-ab59-85302db0119a"
-        },
-        {
-          "id": "dc9d1893-1442-486e-951e-d0683905500d",
-          "name": "Task Completed Add to Project",
-          "type": "Macro",
-          "command": false,
-          "macroId": "defe6789-b564-4658-8ebb-33b69cdfea3e"
-        },
-        {
-          "id": "913c3d19-f83c-4dde-8648-0d7a053d60d6",
-          "name": "Task Archive to Project Archived",
-          "type": "Macro",
-          "command": false,
-          "macroId": "3bab77b0-f029-402b-bd55-c1bd38b8a636"
-        }
-      ],
-      "collapsed": true
-    },
-    {
-      "id": "45976706-e28e-4510-9728-06b97eeb3511",
-      "name": "Create New Discipline Dashboard",
-      "type": "Template",
-      "command": false,
-      "templatePath": "800 Templates/Discipline Dashboard.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "00 {{VALUE:Source Emoji}} {{VALUE:Source}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": true,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "84a3d022-ba54-412c-8738-b9f757724fee",
-      "name": "Create New Project Dashboard",
-      "type": "Template",
-      "command": false,
-      "templatePath": "800 Templates/Project Dashboard.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "00 {{VALUE:Source Emoji}} {{VALUE:Source}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": true,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "72692ec5-2068-4dc0-911d-cea0e2e129e1",
-      "name": "Create New Tasks Catalog",
-      "type": "Template",
-      "command": false,
-      "templatePath": "800 Templates/Tasks (Catalog).md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "01 🌊 Tasks {{VALUE:Source}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": true,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "666bab8a-a5c8-4a35-8dd1-c10958374e5f",
-      "name": "Create New Ramblings",
-      "type": "Template",
-      "command": false,
-      "templatePath": "800 Templates/Ramblings.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "02 💡 Ramblings {{VALUE:Source}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [],
-        "chooseWhenCreatingNote": true,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": true,
-        "direction": "vertical",
-        "focus": false
-      },
-      "openFile": true,
-      "openFileInMode": "default"
-    },
-    {
       "id": "7e3a1676-7511-41c0-8b62-55906437052f",
       "name": "Create New Project",
       "type": "Macro",
@@ -175,55 +20,44 @@
       "type": "Macro",
       "command": true,
       "macroId": "fb71c6a7-5a51-4670-b868-d13b1e3c8f2c"
+    },
+    {
+      "id": "e710c3ad-156c-4e40-92a0-dfdb138d2c67",
+      "name": "Task Add Here",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8abbfb8c-8654-4837-ab59-85302db0119a"
+    },
+    {
+      "id": "f186fa45-3cd8-4d96-9f9d-8708d4f0111e",
+      "name": "Task Archive to Archived",
+      "type": "Macro",
+      "command": true,
+      "macroId": "472e8d68-1bfe-4d5c-a648-4e64a7457cd1"
+    },
+    {
+      "id": "7fe89f23-dc5e-436d-bb50-d9c7d74c0f53",
+      "name": "Task Completed Add Here",
+      "type": "Macro",
+      "command": true,
+      "macroId": "19466a2c-a544-45de-bcb7-a08e52ecb4df"
+    },
+    {
+      "id": "5c58752f-1b0f-462e-a072-c7a9ef8c0d45",
+      "name": "Insert Chaotic Note Roller (5)",
+      "type": "Macro",
+      "command": true,
+      "macroId": "fc5423e4-7a7b-425a-a2fa-1a69a9ff29e2"
+    },
+    {
+      "id": "135ba466-319d-436f-8ede-6d439a04dbe3",
+      "name": "Insert Chaotic Note Roller (10)",
+      "type": "Macro",
+      "command": true,
+      "macroId": "7c7cc6e9-3b3a-4794-92fc-5b711c130a95"
     }
   ],
   "macros": [
-    {
-      "name": "Task Add to Project",
-      "id": "9a52ce97-f984-4f60-b23f-5c76a1402ee4",
-      "commands": [
-        {
-          "name": "Add Task to Specific Project",
-          "type": "NestedChoice",
-          "id": "13cf1ecf-ea89-4ea4-b242-bb6f11435a68",
-          "choice": {
-            "id": "05910785-b27a-452d-8f8b-63784b25d9cf",
-            "name": "Add Task to Specific Project",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "001 Disciplines/{{VALUE:Productivity,}}/{{VALUE:Workflow Overhaul,}}/01 🌊 Tasks {{VALUE:Workflow Overhaul,}}.md",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": true,
-              "format": "#task {{VALUE:#p01 ,#p11 ,#p10 ,#p00 }}{{VALUE:#30m ,#15m ,#01h ,#02h }}{{VALUE:Task Description}} {{VALUE:,#ongoing }}{{VALUE:,#blocked/1 ,#blocked/2 ,#blocked/3 ,#blocking/1 ,#blocking/2 ,#blocking/3 }}{{VALUE:,#exclude/on-hold ,#exclude/stale }}"
-            },
-            "insertAfter": {
-              "enabled": true,
-              "after": "## Raw",
-              "insertAtEnd": true,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": false,
-            "task": true,
-            "openFileInNewTab": {
-              "enabled": true,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
-        }
-      ],
-      "runOnStartup": false
-    },
     {
       "name": "Task Add Here",
       "id": "8abbfb8c-8654-4837-ab59-85302db0119a",
@@ -266,70 +100,6 @@
             "openFile": false,
             "openFileInMode": "default"
           }
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "Task to Project Archived",
-      "id": "3bab77b0-f029-402b-bd55-c1bd38b8a636",
-      "commands": [
-        {
-          "name": "Select active line",
-          "type": "EditorCommand",
-          "id": "38fbdf6b-8e6c-4647-99e3-99deba8ed864",
-          "editorCommandType": "Select active line"
-        },
-        {
-          "name": "Copy",
-          "type": "EditorCommand",
-          "id": "29c84999-8044-4090-8f99-936d88fd5c50",
-          "editorCommandType": "Copy"
-        },
-        {
-          "name": "Paste Clipboard Task to Project Archive",
-          "type": "NestedChoice",
-          "id": "8257a18f-2cd3-4012-87ad-06973b62d6b7",
-          "choice": {
-            "id": "228394cd-09c4-4884-ab95-fa30d4dd53b8",
-            "name": "Paste Clipboard Task to Project Archive",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "001 Disciplines/{{VALUE:Productivity,}}/{{VALUE:Workflow Overhaul,}}/01 🌊 Tasks {{VALUE:Workflow Overhaul,}}.md",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": true,
-              "format": "```js quickadd\nreturn await this.quickAddApi.utility.getClipboard();\n```"
-            },
-            "insertAfter": {
-              "enabled": true,
-              "after": "## Archived",
-              "insertAtEnd": true,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": false,
-            "task": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
-        },
-        {
-          "name": "Delete paragraph",
-          "type": "Obsidian",
-          "id": "a8fee41c-e27d-46c8-81dd-266a0dd77395",
-          "commandId": "editor:delete-paragraph"
         }
       ],
       "runOnStartup": false
@@ -394,52 +164,6 @@
           "type": "Obsidian",
           "id": "04d5b6bc-d065-4a4b-9c57-8768143651ae",
           "commandId": "editor:delete-paragraph"
-        }
-      ],
-      "runOnStartup": false
-    },
-    {
-      "name": "Task Completed Add to Project",
-      "id": "defe6789-b564-4658-8ebb-33b69cdfea3e",
-      "commands": [
-        {
-          "name": "Task Add Completed to Project",
-          "type": "NestedChoice",
-          "id": "aa92a6ba-7e71-4a29-a47c-e73b67846850",
-          "choice": {
-            "id": "704e0b2a-e85b-4eb2-88c7-f1da02c7615b",
-            "name": "Task Add Completed to Project",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "001 Disciplines/{{VALUE:Productivity,}}/{{VALUE:Workflow Overhaul,}}/01 🌊 Tasks {{VALUE:Workflow Overhaul,}}.md",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": true,
-              "format": "- [x] #task {{VALUE:#p01 ,#p11 ,#p10 #p00 }}{{VALUE:#30m ,#15m ,#01h ,#02h }}{{VALUE:Task Description}} ✅ {{DATE}}"
-            },
-            "insertAfter": {
-              "enabled": true,
-              "after": "## Archived",
-              "insertAtEnd": true,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": false,
-            "task": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": false,
-            "openFileInMode": "default"
-          }
         }
       ],
       "runOnStartup": false
@@ -782,6 +506,98 @@
               "enabled": true,
               "direction": "vertical",
               "focus": false
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Insert Chaotic Note Roller (5)",
+      "id": "fc5423e4-7a7b-425a-a2fa-1a69a9ff29e2",
+      "commands": [
+        {
+          "name": "Insert Chaotic Note Roller (5)",
+          "type": "NestedChoice",
+          "id": "b80448ad-4637-467c-a936-6e96c022b6b6",
+          "choice": {
+            "id": "253cdc19-3432-443e-8be2-d6e6c1772d10",
+            "name": "Insert Chaotic Note Roller (5)",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Insert Chaotic Note Roller (10)",
+      "id": "7c7cc6e9-3b3a-4794-92fc-5b711c130a95",
+      "commands": [
+        {
+          "name": "Insert Chaotic Note Roller (10)",
+          "type": "NestedChoice",
+          "id": "bfb0aee1-c323-4559-8c7a-ca7afb538e98",
+          "choice": {
+            "id": "3cfd66e6-d096-4f0f-bdbe-d11af8e803b0",
+            "name": "Insert Chaotic Note Roller (10)",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`\n`dice: {{VALUE:Tag}}|link`"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
             },
             "openFile": false,
             "openFileInMode": "default"
