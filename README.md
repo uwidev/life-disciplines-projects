@@ -33,7 +33,7 @@ And it just felt right.
 ## Organization
 The organization of LDP can be summarized as follows.
 
-![LDP Organization](https://github.com/blongty/life-disciplines-projects/blob/main/200%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
+![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/300%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
 [[Projects]] and [[Habits]] are more or less the same thing. They are smaller than and are derived from [[Disciplines]]. Disciplines are smaller than and are derived from [[Ikigai|Life]] and other fundamental [[00 💗 Defining Life|life ideas]]. [[Tasks]] are scattered throughout the entire system as needed.
 
