@@ -1,6 +1,6 @@
 ---
 aliases: Agile
-tags: [note/info, 'productivity', 'agile', 'gamedev']
+tags: [ info, 'productivity', 'agile', ]
 ---
 # Agile Project Management
 **Agile** is a set of project management principles that focuses on people, products, and tools to by encourage an iterative approach for speedy turnover on product delivery. Unlike other workflows (e.g. Waterfall), allowing, encouraging, and enacting change within a project is welcome.
@@ -29,7 +29,7 @@ Customer satisfaction is of top priority, even early during development. This is
 
 *Working Software* is the the primary measure of progress; the results are the versions.
 
-Agile emphasizes simplicity for maximizing effective work, with steady, sustainable development for maintaining a constant, indefinite pace to avoid [[Burnout]].
+Agile emphasizes simplicity for maximizing effective work, with steady, sustainable development for maintaining a constant, indefinite pace to avoid fatigue.
 
 At regular intervals, teams are to reflect on how to be more effective and adjust behavior accordingly.
 
@@ -40,7 +40,5 @@ There are various methologies that have adapted the principles of Agile.
 - [[Kanban vs Scrum]]
 
 **Sources**
-[[🎮 Indie Games - From Dream to Delivery]]
-[Indie Games: From Dream to Delivery 1, Daglow, Don L., Ismail, Rami, eBook - Amazon.com](https://www.amazon.com/dp/B079NSDVSF/?coliid=I2DZOZ6WSVO0E0)
 [What is Agile? | Atlassian](https://www.atlassian.com/agile)
 [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)

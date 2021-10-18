@@ -1,8 +1,11 @@
 ---
-tags: [note/info, productivity, health]
+aliases: Life Meaning
+tags: [ info, productivity ]
 ---
 # Ikigai
 **Ikigai** is a Japanese concept of a motivating force that gives someone a sense of purpose for loving. Ikigai literally translates into *a reason for being*.
+
+For a general interpretation of Life in the context of Life-Disciplines-Pillars, see [[Life (LDP)]].
 
 If one can properly define their Ikigai, they should then have a clear direction on what to do to increase well-being and sustain happiness.
 
@@ -25,8 +28,6 @@ There is no way for someone else to define your Ikigai. Everyone is different an
 
 A good Ikigai should maintain balance of love, skills, worldly needs, and sustainability. Refer to the diagram below.
 ![Ikigai Diagram - Kanban](https://kanbanzone.com/wp-content/uploads/2021/04/kanban-zone-ikigai-japanese-concept.png "kanban-zone-ikigai")
-
-I defined my Ikigai [[Defining My Ikigai|here]].
 
 **Sources**
 [Ikigai - Wikipedia](https://en.wikipedia.org/wiki/Ikigai)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2c304ca628cedc",
+        "id": "fab993592cdc53bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Inbox/00 ❗ Readme.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -86,52 +86,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5116d57311ec98b6",
+        "id": "b43dcb35aa923479",
         "type": "tabs",
-        "dimension": 38.10861423220974,
+        "dimension": 33.52059925093633,
         "children": [
-          {
-            "id": "a853884b70beb523",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "000 Inbox/00 ❗ Readme.md"
-              }
-            }
-          },
-          {
-            "id": "dd85083b98e96ebb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "16a2297c4248b84a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000 Inbox/00 ❗ Readme.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "3e7ef70c26947fa0",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Inbox/00 ❗ Readme.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "path:\"000 Inbox\" OR path:\"300 Resources\" OR path:\"100 Disciplines\" -tag:note/dashboard -file:\"🌊\" -file:\"💡\" -file:\"🔨\"",
@@ -149,66 +114,56 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.808547008547009,
                   "repelStrength": 4,
                   "linkStrength": 0.370940170940171,
                   "linkDistance": 30,
-                  "scale": 1,
+                  "scale": 0.6554983534946917,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "221c1a9bfdcd9bfe",
+        "id": "5116d57311ec98b6",
         "type": "tabs",
-        "dimension": 61.89138576779026,
+        "dimension": 66.47940074906367,
         "children": [
           {
-            "id": "2198e8140483c9c4",
+            "id": "a853884b70beb523",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "700 Views/Tasks Ongoing.md",
-                "mode": "preview"
+                "file": "README.md"
               }
             }
           },
           {
-            "id": "6263f959afaffe0d",
+            "id": "dd85083b98e96ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700 Views/Habits (View).md",
-                "mode": "preview"
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "b17395fadeb6f461",
+            "id": "16a2297c4248b84a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "backlink",
               "state": {
-                "file": "700 Views/Reminder.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "9101501d3e2fc232",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "700 Views/Curation.md",
-                "mode": "preview"
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -216,19 +171,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269
+    "width": 282
   },
-  "active": "7a2c304ca628cedc",
+  "active": "fab993592cdc53bd",
   "lastOpenFiles": [
+    "README.md",
     "000 Inbox/00 ❗ Readme.md",
-    "000 Inbox/Other Useful Functionality.md",
-    "00 🏠 Main Dashboard.md",
-    "99 💗 Life.md",
-    "90 🗃️ Master Backlog.md",
-    "200 Alignment/230 Monthly/2021-10.md",
-    "80 🌊 Tasks Life.md",
-    "01 🔁 Habits Dashboard.md",
-    "100 Disciplines/110 🎀 Example Discipline/110 🎀 Example Discipline.md",
-    "300 Resources/Tasks.md"
+    "000 Inbox/Fundamentals of LDP.md",
+    "100 Disciplines/110 🎀 Example Discipline/Setup/00 🧰 Setup.md",
+    "100 Disciplines/110 🎀 Example Discipline/Setup/12 🔂 Convergence to Ikigai.md",
+    "100 Disciplines/110 🎀 Example Discipline/Setup/13 🎎 Ikigai Expansion.md",
+    "000 Inbox/Suggestions After Learning Initial LDP.md",
+    "100 Disciplines/110 🎀 Example Discipline/Setup/11 🔀 Divergence to Disciplines.md",
+    "000 Inbox/Working with LDP.md",
+    "000 Inbox/Philosophy - How to Approach LDP.md"
   ]
 }

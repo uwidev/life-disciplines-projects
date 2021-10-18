@@ -1,11 +1,11 @@
 ---
 aliases: Pillar
-tags: [note/info, productivity, alignment, gamedev, original]
+tags: [ info, productivity, alignment ]
 ---
 # Pillars
 **Pillars** are Values, Philosophies, Foundations, etc, that give direction and constraints to life or a [[Projects|Project]]. 
 
-Having direction opens up the vast future, but since it's near infinite, they also act as constraints to mitigate [[Decision Paralysis]].
+Having direction opens up the vast future, but since it's near infinite, they also act as constraints to mitigate Decision Paralysis.
 
 Pillars are prone to change over time, but regardless, careful consideration should be taken when defining the initial set of Pillars. Usually there are 3-8 Pillars for a Video Game, but in other topics it may vary different. These Pillars should lie flat, that is, there should be little to no overlap in what a Pillar encompasses.
 

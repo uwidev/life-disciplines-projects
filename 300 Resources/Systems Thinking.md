@@ -1,24 +1,14 @@
 ---
-tags: [note/info, productivity]
+tags: [ info, productivity ]
 ---
 # Systems Thinking
-Systems Thinking is a methodology of thought such that a singular component, or system, is part of many other systems. It examines and analyses beyond the problem and into how other elements contribute to helping or hindering progress.
+**Systems Thinking** is a methodology of thought such that a System is merely a component of many other systems. With this in mind, one can examine and analyses how other those systems contribute or hindering activity.
 
-> Sociology follows a similar thought processing as Systems Thinking.
+You can think of this as [[Dynamics]] but the components themselves are Systems. 
 
-**Emergence** is defined as the Dynamics and functions that become realized when a system interacts with others. Also see [[Mechanics-Dynamics-Aesthetics#Dynamics|MDA]]
+> Sociology follows a similar thought process as Systems Thinking.
 
-To identify Systems and reason with them, consider the following.
-1. Define the I/O and the Movements
-2. Define if the system is liner or circular
-	- Is there no modification to the input after it goes in?
-	- Does additional input affect a processing output?
-	- Does the output affect the input?
-3. Look for patterns
-4. Find feedback loops
-5. Understand checks and balances
-	- Considering feedback loops, how does the system stay in control?
-6. What larger system is this system part of?
+Fundamental knowledge of Systems can be found in [[Systems]].
 
 **Source**
 [[Pillars, Pipelines, Vaults (PPV)]]

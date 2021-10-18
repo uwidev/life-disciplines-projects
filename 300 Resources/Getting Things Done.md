@@ -1,6 +1,6 @@
 ---
 aliases: GTD
-tags: [note/info, productivity]
+tags: [ info, productivity ]
 ---
 # Getting Things Done
 **Getting Things Done** is a framework designed to help you keep track of tasks, ideas, and projects around your life and work.

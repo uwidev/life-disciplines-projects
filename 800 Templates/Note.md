@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [ note/ ]
+tags: []
 ---
 # <% tp.file.title %>
 

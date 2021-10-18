@@ -1,6 +1,6 @@
 ---
-aliases: [Sprint, Sprints]
-tags: [note/info, 'productivity']
+aliases: [ Sprint, Sprints ]
+tags: [ info, 'productivity' ]
 ---
 # Sprints (Scrum)
 **Sprints** are a core concept of [[Scrum (Agile)]]. Sprints themselves are iterative, short time-boxed periods for completing a defined set of of work. Typically they last 2 weeks, but can be longer up to a month. 

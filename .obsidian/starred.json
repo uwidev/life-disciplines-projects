@@ -12,6 +12,16 @@
     },
     {
       "type": "file",
+      "title": "00 🧰 Setup",
+      "path": "100 Disciplines/110 🎀 Example Discipline/Setup/00 🧰 Setup.md"
+    },
+    {
+      "type": "file",
+      "title": "110 🎀 Example Discipline",
+      "path": "100 Disciplines/110 🎀 Example Discipline/110 🎀 Example Discipline.md"
+    },
+    {
+      "type": "file",
       "title": "00 🔀 Divergence to Disciplines",
       "path": "999 Setup/00 🔀 Divergence to Disciplines.md"
     },
@@ -27,11 +37,6 @@
     },
     {
       "type": "file",
-      "title": "110 🎀 Example Discipline",
-      "path": "100 Disciplines/110 🎀 Example Discipline/110 🎀 Example Discipline.md"
-    },
-    {
-      "type": "file",
       "title": "00 🎁 Example Project",
       "path": "100 Disciplines/110 🎀 Example Discipline/Example Project/00 🎁 Example Project.md"
     },
@@ -43,7 +48,7 @@
     {
       "type": "file",
       "title": "90 🗃️ Master Backlog",
-      "path": "90 🗃️ Master Backlog.md"
+      "path": "01 🗃️ Master Backlog.md"
     }
   ]
 }

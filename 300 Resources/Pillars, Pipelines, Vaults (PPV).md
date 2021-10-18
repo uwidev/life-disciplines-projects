@@ -1,13 +1,13 @@
 ---
 aliases: PPV
-tags: [note/info, productivity]
+tags: [ info, productivity ]
 ---
 # Pillars, Pipelines, Vaults (PPV)
 **Pillars, Pipelines, Vaults (PPV)** is an extended and personalized take on [[Getting Things Done]] by [August Bradley](https://www.youtube.com/channel/UCfqj2oq6LVmR3ybC2nfjqKg). He suggests a [[Systems Thinking]] approach to organizing your life, and coins it as a life operating system. By viewing your entire life as a integrated and overlapping systems, new insights can be discovered.
 
 ## Objectives
 PPV has 3 primary objectives.
-- **Focus**: to encourage [[Flow]] at times when you need it the most
+- **Focus**: to encourage Flow at times when you need it the most
 	- You should be able to sit down, see what you need to do, and immediately start working
 - **Alignment**: to ensure that work is directed and focused towards the right goals
 	- You should know for sure that what you're doing will make progress towards something your goals
@@ -49,7 +49,7 @@ Your personal knowledge database that should be able to be aggregated according 
 - **Notes & Ideas Vault**: your own originals
 - **Tools & Skills Vault**: notes on software or on individuals
 
-This is your [[Zettelkasten]], [[Link Your Thinking]], etc.
+This is your Zettelkasten, Link Your Thinking, etc.
 
 ## Cycles
 Cycles are review sessions that ensure work remains consistent with Pipelines and Pillars.
@@ -61,7 +61,7 @@ You should at least have...
 - one dedicated to taking Action per day, week, month, etc
 - one dedicated to realignment (Cycles)
 
-These can be thought of as [[Map of Contents]].
+These can be thought of as Map of Contents.
 
 **Sources**
 [Intro & Overview of Pillars, Pipelines & Vaults – Notion Life Operating System - YouTube](https://www.youtube.com/watch?v=d93SGaf82OM)

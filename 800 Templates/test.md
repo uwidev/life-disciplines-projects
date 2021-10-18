@@ -1,1 +1,0 @@
-<% tp.date.now("YYYY-[Q]Q", "P-9M") %>

@@ -1,6 +1,6 @@
 ---
 aliases: Work Hierarchy
-tags: [note/info, productivity, agile, gamedev]
+tags: [ info, productivity, agile ]
 ---
 # Work Hierarchy (Scrum)
 Work (tasks) are simplified to three tiers, but can have more. From lowest to highest: **(User) Stories**, **Epics**, **Initiatives**. Stories are based on Epics, and Epics are based on Initiatives.

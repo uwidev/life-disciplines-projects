@@ -1,11 +1,9 @@
 ---
 aliases: Ceremony (Scrum)
-tags: [note/info, 'agile', 'productivity']
+tags: [ info, 'agile', 'productivity' ]
 ---
 # Ceremonies (Scrum)
 **Ceremonies** in [[Scrum (Agile)|Scrum]] are a fancy word for the types of goal-oriented meetings to prepare for and reflect on work.
-
-To see a more generalized definition, see [[Ceremonies]].
 
 There are various types of Ceremonies presented.
 
@@ -24,7 +22,7 @@ Some core ideas that should be discussed are as follows.
 
 > Try not to include work that can is blocked by dependencies (e.g. requiring a sign off that you probably won't get before or shortly after the Sprint starts), Also, setting priority on certain kinds of work.
 
-Everything should be placed on the [[Product Backlog]], which each item being clear and measurable. This can take the for of some Acceptance Criteria (a checklist of characteristics and satisfaction) or some Testing Note (guided, potentially automated testing).
+Everything should be placed on the Backlog, which each item being clear and measurable. This can take the for of some Acceptance Criteria (a checklist of characteristics and satisfaction) or some Testing Note (guided, potentially automated testing).
 
 ### Daily Stand-up (Scrums)
 A personalized Ceremony done *once per day (morning*), usually lasting <15 minutes to inform everyone the current state of affairs. They should be light, fun, and informative, usually trying to answer the following questions:
@@ -36,7 +34,7 @@ To assist the process, one should consider having some kind of view that denotes
 
 > It also makes people accountable of themselves and each other.
 
-The [[Product Backlog]] is also adjusted as tasks are labeled as *In-Progress* and *Done*. Also see [[Kanban (Agile)]].
+The Backlog is also adjusted as tasks are labeled as *In-Progress* and *Done*. Also see [[Kanban (Agile)]].
 
 ### Iteration Review (Sprint Review)
 A Ceremony done at the *end* of a sprint or milestone, usually lasting 60 minutes per sprinted week to showcase and demo work.
