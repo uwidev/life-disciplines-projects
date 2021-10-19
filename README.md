@@ -1,15 +1,7 @@
 # Life Discipline Projects
-Life-Disciplines-Projects (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi](https://twitter.com/uwidev).  
+Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere. 
 
-It's an attempt to redefine one's relationship with work by reducing [[Friction]] and increasing velocity towards their intended life's purpose ([[Ikigai]]).
-
-LDP takes inspiration from many places, pulling the best ideas and mashing them together. Concepts included can be sourced from, but not including:
-- [[Ikigai]]
-- [[Getting Things Done]]
-- [[Pillars, Pipelines, Vaults (PPV)]]
-- [[Agile Project Management]] and it's derivatives ([[Scrum (Agile)|Scrum]], [[Kanban (Agile)|Kanban]])
-
-> You do not need to fully understand these concepts to understand LDP, with the exception of Ikigai.
+LDP is an attempt redefine ones relationship with work by reducing friction and increasing velocity towards their ikigai, defined as their reason for being. It takes inspiration from Getting Things Done, Pillars Pipelines and Vaults, and Agile (Scrum, Kanban), among many others.
 
 **I have provided all of this content for free, so please consider donating to me at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.**
 
@@ -30,12 +22,8 @@ LDP is organized hierarchicaly as to allow routine alignment of each component t
 
 Tasks are scattered throughout the system as needed.
 
-<<<<<<< HEAD
-![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/300%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
-=======
 ## Approach and Philosophy
 **Build a System that Works for You:** My life is not your life. LDP is a framework, the foundation that is to be built by whoever utilizes it. You should always be asking the following two questions.
->>>>>>> f15113c (Update README.md)
 
 **Keep It Clear, Simple, and Small:** You should be able to sit down and immediately do what you want to do. Do this by reducing friction.
 

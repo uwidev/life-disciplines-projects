@@ -4,7 +4,7 @@ tags: [ info ]
 version: 0.2
 ---
 # Hello!
-Welcome to Life-Disciplines-Projects (LDP), a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi](https://twitter.com/uwidev). 
+Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere. 
 
 It's an attempt to redefine one's relationship with work by reducing [[Friction]] and increasing velocity towards their intended life's purpose ([[Ikigai]]).
 
