@@ -16,7 +16,7 @@ LDP is an attempt redefine ones relationship with work by reducing friction and 
 ## Premise
 Life-Disciplines-Projects are organized as follows.
 
-![LDP Organization](https://github.com/blongty/life-disciplines-projects/blob/main/200%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
+![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/300%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
 LDP is organized hierarchicaly as to allow routine alignment of each component to it's higher context. Projects should make sense under Disciplines, and Disciplines should make sense in the context of your Life. And of course, your Life should make sense with your ideals.
 
