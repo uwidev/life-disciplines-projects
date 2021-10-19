@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "fab993592cdc53bd",
+        "id": "30ff8e637186e6bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "000 Inbox/00 ❗ Readme.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "b2d945f62d6ecf63",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 🏠 Main Dashboard.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +99,7 @@
       {
         "id": "b43dcb35aa923479",
         "type": "tabs",
-        "dimension": 33.52059925093633,
+        "dimension": 33.55201499531397,
         "children": [
           {
             "id": "3e7ef70c26947fa0",
@@ -96,10 +107,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "000 Inbox/00 ❗ Readme.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "path:\"000 Inbox\" OR path:\"300 Resources\" OR path:\"100 Disciplines\" -tag:note/dashboard -file:\"🌊\" -file:\"💡\" -file:\"🔨\"",
+                  "search": "path:\"000 Inbox\" OR path:\"300 Resources\" OR path:\"100 Disciplines\" -tag:dashboard",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -119,7 +130,7 @@
                   "repelStrength": 4,
                   "linkStrength": 0.370940170940171,
                   "linkDistance": 30,
-                  "scale": 0.6554983534946917,
+                  "scale": 0.6554983534946918,
                   "close": true
                 }
               }
@@ -130,7 +141,7 @@
       {
         "id": "5116d57311ec98b6",
         "type": "tabs",
-        "dimension": 66.47940074906367,
+        "dimension": 36.92596063730084,
         "children": [
           {
             "id": "a853884b70beb523",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "000 Inbox/00 ❗ Readme.md"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "000 Inbox/00 ❗ Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,23 +178,42 @@
               }
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3ae15327d819c7b7",
+        "type": "tabs",
+        "dimension": 29.522024367385193,
+        "children": [
+          {
+            "id": "1f93b51b29ff3122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Ongoing Tasks.md",
+                "mode": "preview"
+              }
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
     "width": 282
   },
-  "active": "fab993592cdc53bd",
+  "active": "30ff8e637186e6bd",
   "lastOpenFiles": [
-    "README.md",
     "000 Inbox/00 ❗ Readme.md",
-    "000 Inbox/Fundamentals of LDP.md",
-    "100 Disciplines/110 🎀 Example Discipline/Setup/00 🧰 Setup.md",
-    "100 Disciplines/110 🎀 Example Discipline/Setup/12 🔂 Convergence to Ikigai.md",
-    "100 Disciplines/110 🎀 Example Discipline/Setup/13 🎎 Ikigai Expansion.md",
-    "000 Inbox/Suggestions After Learning Initial LDP.md",
-    "100 Disciplines/110 🎀 Example Discipline/Setup/11 🔀 Divergence to Disciplines.md",
-    "000 Inbox/Working with LDP.md",
-    "000 Inbox/Philosophy - How to Approach LDP.md"
+    "00 🏠 Main Dashboard.md",
+    "100 Disciplines/110 🎀 Well-being (EXAMPLE)/Setup/00 🧰 Setup.md",
+    "300 Resources/Fundamentals of LDP.md",
+    "300 Resources/Pillars, Pipelines, Vaults (PPV).md",
+    "300 Resources/Simple Integration Into Obsidian.md",
+    "300 Resources/Tasks.md",
+    "700 Views/Ongoing Tasks.md",
+    "700 Views/Untitled.md",
+    "100 Disciplines/110 🎀 Well-being (EXAMPLE)/Setup/13 🎎 Ikigai Expansion.md"
   ]
 }

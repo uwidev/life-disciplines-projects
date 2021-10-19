@@ -1,5 +1,5 @@
 ---
-aliases: [ 💗 Life, 700 Life ]
+aliases: [ 💗 Life ]
 tags: [ data ]
 ---
 # 💗 Life

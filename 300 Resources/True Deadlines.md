@@ -1,6 +1,6 @@
 ---
 aliases: True Deadline
-tags: [ info ]
+tags: [ info, productivity ]
 ---
 # True Deadlines
 **True Deadlines** are deadlines that must be met or else repercussions are soon to occur.

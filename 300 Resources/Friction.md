@@ -1,6 +1,6 @@
 ---
 aliases: null
-tags: [ info ]
+tags: [ info, productivity, well-being ]
 ---
 # Friction
 **Friction** in Workflow refers to the reluctance or barrier one has towards an activity. Friction can be the result of many things, but the primary cause is based on the Environment and psychology 

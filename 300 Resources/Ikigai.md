@@ -1,6 +1,6 @@
 ---
 aliases: Life Meaning
-tags: [ info, productivity ]
+tags: [info, well-being]
 ---
 # Ikigai
 **Ikigai** is a Japanese concept of a motivating force that gives someone a sense of purpose for loving. Ikigai literally translates into *a reason for being*.

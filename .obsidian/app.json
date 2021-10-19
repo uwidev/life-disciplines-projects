@@ -3,5 +3,19 @@
   "foldIndent": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "setup",
+    "Ikigai",
+    "Readme",
+    "frontmatter",
+    "Ikigai",
+    "Zettelkasten",
+    "ikigai",
+    "killsets ",
+    "skillsets",
+    "codeblocks",
+    "Ikigais",
+    "ikigais"
+  ]
 }
