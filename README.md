@@ -1,68 +1,54 @@
 # Life Discipline Projects
-Welcome to Life-Disciplines-Projects v0.1 (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi](https://twitter.com/uwidev). This note serves to explain the theory of LDP and its workflow to my best of his ability.
+Life-Disciplines-Projects v0.2 (LDP) is a life-management framework built within [Obsidian](https://obsidian.md/) by [uwi](https://twitter.com/uwidev). 
 
-*Name LDP not final. I'm open to suggestions.*
+LDP is an attempt redefine ones relationship with work by reducing friction and increasing velocity towards their ikigai, defined as their reason for being. It takes inspiration from Getting Things Done, Agile, Scrum, Kanban, and Pillars Pipelines and Vaults, among many others.
 
-## Preface
-### Please don't just copy me
-**My life is not your life.** I have provided a lot of resources that serve to supplement my model of how to efficiently manage my life. I tried my best to generalize the ideas, but regardless, do not mindlessly follow the motion of the notes I provide. Instead, transform it into something that works with your own views of how life should operate.
+**I have provided all of this content for free, so please consider donating to me at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.**
 
-### Why explicitly manage life?
-With the sheer amount and rate of information we're constantly bombarded with, most of it absolutely useless, we sometimes lose our sense of self and meaning. Everything around us, especially on the internet, is trying to grab our attention. 
-- "Hey, look at this! It's a cool product that makes everything harder for no reason!"
-- "Look! Your friends online doing absolutely nothing that are interesting to you!"
-- "Remember this item still in your cart a month ago? Here's a reminder! Buy it now!"
+### What can you get from this?
+- How you should apprach LDP
+- The fundamentals of LDP
+- Working With LDP
+- A simple implementation in Obsidian
+- Suggestions moving forward
+- A detailed walkthrough on defining your Life and Disciplines
 
-Some aren't as irritating the examples I listed above, but the fact that I can make them as examples says a lot.
+## Premise
+Life-Disciplines-Projects are organized as follows.
 
-We're always distracted to the point where even as adults, we haven't even stopped and thought about what we want to do. This is my experience in my family and what I've observed growing up in the modern States.
+![LDP Organization](https://github.com/blongty/life-disciplines-projects/blob/main/200%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
-Much of the internet and everyday life are these self-sustaining cycles of complacency. Some of us go to a work we don't particularly enjoy, only to come home to cope with the stress of work, only to repeat the cycle again just because it gets the bills paid. To me, that's my version of hell. I don't want that, and I think most people would agree as well. We need a way to keep us in check and on our path towards what we see as success.
+LDP is organized hierarchicaly as to allow routine alignment of each component to it's higher context. Projects should make sense under Disciplines, and Disciplines should make sense in the context of your Life. And of course, your Life should make sense with your ideals.
 
-LDP serves as a way to unstuck oneself and to create velocity and direction towards something you really want. 
+Tasks are scattered throughout the system as needed.
 
-### Why Obsidian?
-Obsidian is an enhanced, barebones markdown text editor. It isn't really built to ease the complexity of workflows, but with the help of plugin support and the community, its functionality is far beyond what it initially was.
-
-The catch was that in order to do life management in Obsidian, you had to do thorough research into its plugins, workflow design, etc. There are other applications that streamline the process, allowing you to get started right away. But there's something nice about working within the primitive constraints of Obsidian; it's simple and empowering since everything is personalized.
-
-But the primary reason why I chose Obsidian was because all documents are locally stored on your computer as plain text. There is no dependence on a cloud or server, the only dependence is your computer. There's also the sense of ownership and historical documentation. Everything is yours; just yours.
-
-And it just felt right.
-
-## Organization
-The organization of LDP can be summarized as follows.
-
+<<<<<<< HEAD
 ![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/300%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
+=======
+## Approach and Philosophy
+**Build a System that Works for You:** My life is not your life. LDP is a framework, the foundation that is to be built by whoever utilizes it. You should always be asking the following two questions.
+>>>>>>> f15113c (Update README.md)
 
-[[Projects]] and [[Habits]] are more or less the same thing. They are smaller than and are derived from [[Disciplines]]. Disciplines are smaller than and are derived from [[Ikigai|Life]] and other fundamental [[00 💗 Defining Life|life ideas]]. [[Tasks]] are scattered throughout the entire system as needed.
+**Keep It Clear, Simple, and Small:** You should be able to sit down and immediately do what you want to do. Do this by reducing friction.
 
-This entire system is modeled through folder hierarchy under the folder `100 Disciplines`, though you can personalize it as you seem fit. What's important is that it models the diagram above.
+**Work in Passes:** Do not get stuck on perfection. Do the bare minimum now to establish structure and viability. You can always come back later to iterate on the ideas and do polish.
 
-## Workflow
-Assuming the initial setup of Life and Disciplines are complete, my general workflow is as follows. Note that projects should last anywhere between no longer than 1 month.
-1. A new project is created that creates mobility towards or sustains a Discipline's Pillar.
-2. The project is loosely defined with an objective and completion criteria—optionally grouped.
-3. Tasks are created, given a priority, estimated duration, and tagged with its corresponding completion criteria tag.
-4. Tasks are explicitly defined as ongoing and are worked on immediately.
-5. Task are marked as complete.
-6. Steps 3-5 for tasks continue until the project's completion criteria are met, plus a bit of polish.
-7. Project is completed.
-8. Refactor useful non-general information into generalized notes.
-9. Generalized notes that are non-project specific are sent to `300 Resources`.
-10. The project and else are archived to `900 Archive/910 Projects`.
+**Work Wide, not Deep:** Work to understand the bigger picture, then start to polish and tweak the fine details. Do not perfect one component and neglact work on the rest. Don't put all your eggs in one basket.
 
-Fairly straight forward process for Projects and Tasks.
+**Everything should be Relevant and Important**: Save time and energy by working on the relevant and important. 
 
 ## How to get started
-Navigate to [Obsidian's Website](https://obsidian.md/) and download the program. Install it and then download the source code of this project from releases on the right. Extract it to a folder and then open Obsidian. Click on "Open folder as vault" and navigate to the folder that you extracted the source code to. Read the first note you see and continue from there.
+1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the program. Install.
+2. Download the source code of this project from releases on the right. Extract to a folder.
+3. Open Obsidian then `Open folder as Vault` and navigate to the folder that you extracted the source code to.
+4. Read the more in-depth `00 ❗ Readme` file within the project.
 
 ## Suggestions and Concerns
-DM me though the [Obsidian Community Discord](https://discord.com/invite/veuWUTm). Join the server and you should be able to mention or DM me. **Please don't add me as a friend.** Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
+Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/jAYuGaEvJb). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm) for Obsidian-specific details. Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
 
 ## More about uwi
-I am a solo indie game developer with a mission of making people cry not because they're say, but because they've witness the beautiful. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
+I am a solo indie game developer with a mission of making people cry, but not through of saddness, but through sheer beauty. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
 
-If you're interested in following me, please consider following me on [twitter](https://twitter.com/uwidev) and donating to me on [ko-fi](https://ko-fi.com/uwidev). I'll need all the support I can get!
+If you're interested in following me, please consider following my journey on game development, among other things, follow me on [twitter](https://twitter.com/uwidev). Also please consider donating at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.
 
-If you're also a fan of Cirno from the Touhou Project, you can join my community discord [Club Cirno](https://discord.com/invite/clubcirno).
+If you're also a fan of Cirno from the Touhou Project, you can join my community Discord [Club Cirno](https://discord.com/invite/clubcirno).
