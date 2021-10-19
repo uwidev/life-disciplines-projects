@@ -40,7 +40,7 @@ Tasks are scattered throughout the system as needed.
 4. Read the more in-depth `00 ❗ Readme` file within the project.
 
 ## Suggestions and Concerns
-Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/jAYuGaEvJb). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm) for Obsidian-specific details. Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
+Join the Life-Disciplines-Projects community Discord server [here](https://discord.gg/xSaj5Cc5GZ). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm) for Obsidian-specific details. Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
 
 ## More about uwi
 I am a solo indie game developer with a mission of making people cry, but not through of saddness, but through sheer beauty. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
