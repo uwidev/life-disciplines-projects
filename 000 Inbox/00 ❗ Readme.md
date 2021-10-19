@@ -39,7 +39,7 @@ This framework can be applied outside of Obsidian if desired.
 - [[00 🧰 Setup|A detailed setup and walkthrough on self-reflection]]
 
 ## Community Discord
-Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/jAYuGaEvJb). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm).
+Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/xSaj5Cc5GZ). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm).
 
 ## More about uwi
 I am a solo indie game developer with a mission of making people cry, but not through of sadness, but through sheer beauty. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
