@@ -17,7 +17,7 @@ I will assume that you are familiar with the basics of Obsidian. If not, please 
 ### Demo
 A sparse example of LDP's organization is already set up. You should have noticed that the following organization.
 
-> 📁`100 Disciplines` > 📁`100 🎀 Well-being (EXAMPLE)` = [[110 🎀 Well-being (EXAMPLE)]] > 📁`Setup` = [[00 🧰 Setup]]
+> 📁`100 Disciplines` > 📁`100 🎀 Well-being (EXAMPLE)` = [[210 🎀 Well-being (EXAMPLE)]] > 📁`Setup` = [[00 🧰 Setup]]
 
 In more general terms.
 
@@ -51,10 +51,10 @@ If there's some extra functionality you want, it probably exists. Here are some 
 
 There are many, many other plugins that you might find useful. Do your own research.
 
-> Obsidian Tasks has been extended to support [[300 Resources/Ongoing Tasks]]. Tasks can be tagged with `#ongoing` to mark them as an ongoing. Queries will look for that tag. See [[00 🏠 Main Dashboard|🏠 Main Dashboard]] for demo.
+> Obsidian Tasks has been extended to support [[600 Resources/Ongoing Tasks]]. Tasks can be tagged with `#ongoing` to mark them as an ongoing. Queries will look for that tag. See [[00 🏠 Main Dashboard|🏠 Main Dashboard]] for demo.
 
 ### Alignment
-Routine alignment is done through [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) and [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes). They are placed under `200 Alignment`. Check out the calendar on the right panels.
+Routine alignment is done through [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) and [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes). They are placed under `500 Alignment`. Check out the calendar on the right panels.
 
 ### Personal Knowledge Base (PKM)
 Obsidian is known to be a link-based note-taking platform. Most follow some form of Zettelkasten or other graph-based organization. Your PKM should stand next to LDP, not tightly integrated.
@@ -63,7 +63,7 @@ I recommend you create a folder at the root of your vault, completely dedicated 
 
 Your PKM will maintain whatever structure it currently is.
 
-For this demo, they are placed under `300 Resources`.
+For this demo, they are placed under `600 Resources`.
 
 ### Organizing Tasks
 There's a command to swap a line of text up or down. I bound it to `alt+w` and `alt+s`. Use this to quickly move a task up and down the To-do list. You can also just highlight a line and click and drag it to where you want it to go. 

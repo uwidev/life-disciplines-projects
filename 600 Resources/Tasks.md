@@ -39,7 +39,7 @@ All `#ongoing` Tasks will be aggregated by Obsidian Tasks.
 
 There should be no more than 4 `#ongoing` tasks at any time. This is to reduce friction.
 
-See [[300 Resources/Ongoing Tasks]] on what constitutes as an `#ongoing` task.
+See [[600 Resources/Ongoing Tasks]] on what constitutes as an `#ongoing` task.
 
 ## Size
 Tasks themselves should be broken down such that they take no longer than 2 hours to complete. This 2 hour duration is an arbitrary cutoff, and is based on the idea that if a task is expected to take longer than that, there will be some [[Friction]] and reluctance to its undertaking.

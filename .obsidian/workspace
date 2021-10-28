@@ -1,27 +1,16 @@
 {
   "main": {
-    "id": "9461fb4fd719e0ae",
+    "id": "c419ae07d5d81988",
     "type": "split",
     "children": [
       {
-        "id": "30ff8e637186e6bd",
+        "id": "f09cdb354a1a5a78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "000 Inbox/00 ❗ Readme.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "b2d945f62d6ecf63",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00 🏠 Main Dashboard.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -66,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "00",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,6 +125,14 @@
                 }
               }
             }
+          },
+          {
+            "id": "d0775499bea2d9ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -151,14 +149,6 @@
               "state": {
                 "file": "000 Inbox/00 ❗ Readme.md"
               }
-            }
-          },
-          {
-            "id": "dd85083b98e96ebb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -201,19 +191,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282
+    "width": 282,
+    "collapsed": true
   },
-  "active": "30ff8e637186e6bd",
+  "active": "f09cdb354a1a5a78",
   "lastOpenFiles": [
     "000 Inbox/00 ❗ Readme.md",
-    "00 🏠 Main Dashboard.md",
-    "100 Disciplines/110 🎀 Well-being (EXAMPLE)/Setup/00 🧰 Setup.md",
-    "300 Resources/Fundamentals of LDP.md",
-    "300 Resources/Pillars, Pipelines, Vaults (PPV).md",
-    "300 Resources/Simple Integration Into Obsidian.md",
-    "300 Resources/Tasks.md",
-    "700 Views/Ongoing Tasks.md",
-    "700 Views/Untitled.md",
-    "100 Disciplines/110 🎀 Well-being (EXAMPLE)/Setup/13 🎎 Ikigai Expansion.md"
+    "600 Resources/Working with LDP.md",
+    "600 Resources/Tasks.md",
+    "600 Resources/Simple Integration Into Obsidian.md",
+    "200 Disciplines/210 🎀 Well-being (EXAMPLE)/Random Note of Abundant Information (EXAMPLE).md",
+    "100 Projects/Setup/13 🎎 Ikigai Expansion.md",
+    "100 Projects/Setup/12 🔂 Convergence to Ikigai.md",
+    "100 Projects/Setup/11 🔀 Divergence to Disciplines.md",
+    "100 Projects/Setup/00 🧰 Setup.md",
+    "200 Alignment/210 Daily/2021-10-27.md"
   ]
 }

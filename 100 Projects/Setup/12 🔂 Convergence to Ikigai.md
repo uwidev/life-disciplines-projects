@@ -41,25 +41,25 @@ This is the basis of what gives meaning. Everything else will build on these fun
 #### Love
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "love")
 ```
 #### World
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "world")
 ```
 #### Money
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "money")
 ```
 #### Skill
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "skill")
 ```
 
@@ -70,28 +70,28 @@ This is the first layer of the emerging effect of having 2 fundamental character
 Defined as what you love and what the world needs.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(ikigai, "world")
 ```
 #### Vocation
 Defined as what the world needs and what you can be paid for.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "money") and contains(ikigai, "world")
 ```
 #### Profession
 Defined as what you can be paid for and what you are skilled at.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(ikigai, "money")
 ```
 #### Passion
 Defined as what you are skilled at and what you love.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(ikigai, "skill")
 ```
 
@@ -102,7 +102,7 @@ These are the second emerging layer of having 3 fundamental characteristics. The
 These are the cool things in life that don't serve a higher purpose other than being cool. You love these things, they make you money, and you're skilled in it, but that's all to it.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(ikigai, "skill") and contains(ikigai, "money") and !contains(ikigai, "world")
 ```
 
@@ -110,7 +110,7 @@ WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(iki
 You can think of these as things you need to do, but aren't particularly fond of. They get the bills paid, you're genuinely being useful to others, and just happen to be good at it.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ikigai, "skill") and contains(ikigai, "money") and !contains(ikigai, "love")
 ```
 
@@ -118,7 +118,7 @@ WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ik
 These are things that are genuinely useful, you love, and can be compensated for. However, you're unsure if your skillsets can live up to what it entails.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ikigai, "love") and contains(ikigai, "money") and !contains(ikigai, "skill")
 ```
 
@@ -126,7 +126,7 @@ WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ik
 You love doing these things. People understand its significance and recognize that you're a pioneer at this. However, they this is something that isn't really sustainable financially.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ikigai, "love") and contains(ikigai, "world") and !contains(ikigai, "money")
 ```
 
@@ -134,7 +134,7 @@ WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ik
 Below are your primary driving forces of life, your Ikigai. They are things you love, what the world needs, what you get money for, and what you are skilled at.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline"
-FROM "100 Disciplines"
+FROM "200 Disciplines"
 WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ikigai, "love") and contains(ikigai, "world") and contains(ikigai, "money")
 ```
 

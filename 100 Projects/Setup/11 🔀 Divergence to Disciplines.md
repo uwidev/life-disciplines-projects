@@ -80,7 +80,7 @@ Here, we will begin to explore some fundamental driving forces of what makes a D
 `Answer`
 
 ## Initial Creation
-When you are done, make folders for Disciplines under `100 Disciplines/`. Consider naming them following [[Simple Integration Into Obsidian#Folder Naming]], but just consider it, don't do it quite yet. You may find that you want it ordered differently after completing setup.
+When you are done, make folders for Disciplines under `200 Disciplines/`. Consider naming them following [[Simple Integration Into Obsidian#Folder Naming]], but just consider it, don't do it quite yet. You may find that you want it ordered differently after completing setup.
 
 Once the folder is created, create a [[Dashboards|Dashboard]] that will serve as the master note for that Discipline. Name it whatever you want, but I suggest naming it the same as the folder name.
 

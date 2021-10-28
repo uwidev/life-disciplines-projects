@@ -7,4 +7,4 @@ Dashboards are the master note for whatever it serves. They can hold the core in
 
 There should be one for [[Life (LDP)|Life]], all [[Disciplines]], and all [[Projects]]. They can also be used in tandem with [[Simple Integration Into Obsidian#Obsidian Plugins]].
 
-See [[00 🏠 Main Dashboard|🏠 Main Dashboard]] for an example of low-friction portal. See [[110 🎀 Well-being (EXAMPLE)]] for an example of holding core information, as well as being a portal to work.
+See [[00 🏠 Main Dashboard|🏠 Main Dashboard]] for an example of low-friction portal. See [[210 🎀 Well-being (EXAMPLE)]] for an example of holding core information, as well as being a portal to work.

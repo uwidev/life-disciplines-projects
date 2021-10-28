@@ -3,7 +3,7 @@ aliases: 🧰 Setup
 tags: [dashboard, project]
 status: Planned
 ---
-[[110 🎀 Well-being (EXAMPLE)]]
+[[210 🎀 Well-being (EXAMPLE)]]
 # 🧰 Setup
 ## Abstract
 This is a top-down approach for personal exploration to setup LDP. You will be shown several questions. Please answer them the best you can. Fear not, no one will see your answers, they are yours and yours only (unless you share them, of course).
