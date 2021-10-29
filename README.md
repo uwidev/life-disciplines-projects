@@ -19,6 +19,7 @@ Life-Disciplines-Projects are organized as follows.
 ![LDP Organization](https://raw.githubusercontent.com/uwidev/life-disciplines-projects/main/600%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
 LDP is organized as a system of components, which allows for routine alignment of component to it's higher context.
+
 **Resources → LDP**
 **Tasks → Core**  
 **Life → Sense of Self**
