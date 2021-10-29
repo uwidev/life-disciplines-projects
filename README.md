@@ -5,8 +5,13 @@ LDP is an attempt redefine ones relationship with work by reducing friction and 
 
 **I have provided all of this content for free, so please consider donating to me at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.**
 
+### Who is this for?
+LDP is for those who find themselves distracted by the modern world. LDP will create meaning (Life), direction (Disciplines), and action (Projects). If you are missing either of these, you may find LDP useful.
+
+Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection). You can post-pone this step if needed If need something working now.
+
 ### What can you get from this?
-- How you should apprach LDP
+- How you should approach LDP
 - The fundamentals of LDP
 - Working With LDP
 - A simple implementation in Obsidian
@@ -16,19 +21,19 @@ LDP is an attempt redefine ones relationship with work by reducing friction and 
 ## Premise
 Life-Disciplines-Projects are organized as follows.
 
-![LDP Organization](https://raw.githubusercontent.com/uwidev/life-disciplines-projects/main/600%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
+![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/ca2e336dc66250eca24ad041a87a40095f30098f/600%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
-LDP is organized as a system of components, which allows for routine alignment of component to it's higher context.
+LDP is organized as a system of components, which allows for routine alignment of component to it's higher context. Arrows represent "X is created from  Y".
 
-**Resources → LDP**
-**Tasks → Core**  
-**Life → Sense of Self**
-**Disciplines → Life**  
-**Habits → Life/Disciplines**
-**Projects → Disciplines**  
+> Resources (PKM) → LDP (Everything below this) ↴↰
+>> Tasks → Core (Everything below this) ↴↰
+>>> Life → Sense of Self
+>>> Habits → Life/Disciplines
+>>> Disciplines → Life
+>>> Projects → Disciplines
 
 ## Approach and Philosophy
-**Build a System that Works for You:** My life is not your life. LDP is a framework, the foundation that is to be built by whoever utilizes it. You should always be asking the following two questions.
+**Build a System that Works for You:** My life is not your life. LDP is a framework, the foundation that is to be built by whoever utilizes it. Always question and transform methods to work with you.
 
 **Everything should be Relevant and Important**: Save time and energy by working on the relevant and important. 
 
@@ -36,7 +41,7 @@ LDP is organized as a system of components, which allows for routine alignment o
 
 **"Just Enough" For Now, Polish Later:** Do not get stuck on perfection. Do the bare minimum now to establish structure and viability. You can always come back later to iterate on the ideas and do polish.
 
-**Work Wide, not Deep:** Work to understand the bigger picture, then start to polish and tweak the fine details. Do not perfect one component and neglact work on the rest. Don't put all your eggs in one basket.
+**Work Wide, not Deep:** Work to understand the bigger picture, then start to polish and tweak the fine details. Do not perfect one component and neglect work on the rest. Don't put all your eggs in one basket.
 
 ## How to get started
 1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the Obsidian. Install.

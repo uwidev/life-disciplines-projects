@@ -9,6 +9,13 @@ tags: [ info, alignment ]
 
 LDP is a system of components. Arrows represent "X is created from $\rightarrow$ Y". 
 
+> Resources (PKM) → LDP (Everything below this) ↴↰
+>> Tasks → Core (Everything below this) ↴↰
+>>> Life → Sense of Self
+>>> Habits → Life/Disciplines
+>>> Disciplines → Life
+>>> Projects → Disciplines
+
 In English, Projects are create from from Disciplines. Disciplines are created from based on your Life. Habits are created based on how you live your Life and its derived Disciplines. Tasks make up the core of LDP, and the core of LDP makes up the Tasks themselves. Resources (Personal Knowledge Management) are pulled into LDP as needed or pushed out.
 
 ### Alignment
