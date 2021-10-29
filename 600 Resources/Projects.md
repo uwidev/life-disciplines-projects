@@ -13,9 +13,9 @@ Projects will be of varying sizes and should be longer than 2 hours, as this is 
 While there isn't a real maximum on how big a Project is, it's suggested to be no longer than a month, averaging several weeks. This duration is based on the general duration of a [[Sprints (Scrum)|Sprint]]. **And this is under the assumption that this Project is the ONLY thing you're working on.** Plan your Projects and focus according to your available time.
 
 ## Relations and Placement
-Projects are immediately derived from [[Disciplines]], as a Project's Objective should be related to said Discipline's Pillars and/or Dynamics. That being said, Projects should live within a Discipline's folder.
+Projects should be placed within a dedicated projects folder.
 
-Tasks are largely derived from Projects to make lee-way towards meeting the Objective, which in term, meets the Discipline's Pillars and/or Dynamics.
+Tasks are largely derived from Projects to make lee-way towards meeting the Objective, which in term, meets the discipline's pillars and/or [[Dynamics|Dynamic]].
 
 ## Abstract
 Explains the context of the project. Generally discusses the following.
@@ -35,7 +35,7 @@ For Projects, a Completion Criteria is a well-defined checklist that cumulate to
 
 Well-Defined as in, requirements can be clearly answered `Yes` or `No` if they have been met. These Requirements should align with the Core.
 
-While there is no hard limit of Completion Criteria count, it should be noted that these are essentially groupings for [[Tasks|Tasks]]. Having too much Completion Criteria may hint at a project that may take longer than 1 month; vice versa.
+While there is no hard limit of Completion Criteria count, it should be noted that these are essentially groupings for [[Tasks|Tasks]]. Having too much Completion Criteria may hint at a project that may take longer than 1 month.
 
 **All Projects should have Completion Criteria, but the Objective should come first.**
 

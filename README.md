@@ -18,24 +18,28 @@ Life-Disciplines-Projects are organized as follows.
 
 ![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/300%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
-LDP is organized hierarchicaly as to allow routine alignment of each component to it's higher context. Projects should make sense under Disciplines, and Disciplines should make sense in the context of your Life. And of course, your Life should make sense with your ideals.
-
-Tasks are scattered throughout the system as needed.
+LDP is organized as a system of components, which allows for routine alignment of component to it's higher context.
+**Resources → LDP**
+**Tasks → Core**  
+**Life → Sense of Self**
+**Disciplines → Life**  
+**Habits → Life/Disciplines**
+**Projects → Disciplines**  
 
 ## Approach and Philosophy
 **Build a System that Works for You:** My life is not your life. LDP is a framework, the foundation that is to be built by whoever utilizes it. You should always be asking the following two questions.
 
+**Everything should be Relevant and Important**: Save time and energy by working on the relevant and important. 
+
 **Keep It Clear, Simple, and Small:** You should be able to sit down and immediately do what you want to do. Do this by reducing friction.
 
-**Work in Passes:** Do not get stuck on perfection. Do the bare minimum now to establish structure and viability. You can always come back later to iterate on the ideas and do polish.
+**"Just Enough" For Now, Polish Later:** Do not get stuck on perfection. Do the bare minimum now to establish structure and viability. You can always come back later to iterate on the ideas and do polish.
 
 **Work Wide, not Deep:** Work to understand the bigger picture, then start to polish and tweak the fine details. Do not perfect one component and neglact work on the rest. Don't put all your eggs in one basket.
 
-**Everything should be Relevant and Important**: Save time and energy by working on the relevant and important. 
-
 ## How to get started
-1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the program. Install.
-2. Download the source code of this project from releases on the right. Extract to a folder.
+1. Navigate to [Obsidian's Website](https://obsidian.md/) and download the Obsidian. Install.
+2. Download the latest release of this project on the right. Extract to a folder.
 3. Open Obsidian then `Open folder as Vault` and navigate to the folder that you extracted the source code to.
 4. Read the more in-depth `00 ❗ Readme` file within the project.
 
@@ -43,7 +47,7 @@ Tasks are scattered throughout the system as needed.
 Join the Life-Disciplines-Projects community Discord server [here](https://discord.gg/xSaj5Cc5GZ). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm) for Obsidian-specific details. Also feel free to [open a new issue](https://github.com/uwidev/life-disciplines-projects/issues/new).
 
 ## More about uwi
-I am a solo indie game developer with a mission of making people cry, but not through of saddness, but through sheer beauty. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
+I am a solo indie game developer with a mission of making people cry, but not through of saddness, but through sheer beauty. As of 2021, October 29, I am planning my workflow for game development, hence LDP.
 
 If you're interested in following me, please consider following my journey on game development, among other things, follow me on [twitter](https://twitter.com/uwidev). Also please consider donating at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.
 

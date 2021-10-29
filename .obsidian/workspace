@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f09cdb354a1a5a78",
+        "id": "9f985d914e247766",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "000 Inbox/00 ❗ Readme.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1780a26b353a774c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 🏠 Main Dashboard.md",
+            "mode": "preview"
           }
         }
       }
@@ -55,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "00",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +99,7 @@
       {
         "id": "b43dcb35aa923479",
         "type": "tabs",
-        "dimension": 33.55201499531397,
+        "dimension": 34.26966292134831,
         "children": [
           {
             "id": "3e7ef70c26947fa0",
@@ -100,7 +110,7 @@
                 "file": "000 Inbox/00 ❗ Readme.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "path:\"000 Inbox\" OR path:\"300 Resources\" OR path:\"100 Disciplines\" -tag:dashboard",
+                  "search": "-tag:dashboard",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
@@ -125,21 +135,13 @@
                 }
               }
             }
-          },
-          {
-            "id": "d0775499bea2d9ca",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "5116d57311ec98b6",
         "type": "tabs",
-        "dimension": 36.92596063730084,
+        "dimension": 37.265917602996254,
         "children": [
           {
             "id": "a853884b70beb523",
@@ -167,22 +169,51 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d0775499bea2d9ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "3ae15327d819c7b7",
+        "id": "e5fe800ed659f2cd",
         "type": "tabs",
-        "dimension": 29.522024367385193,
+        "dimension": 28.464419475655426,
         "children": [
           {
-            "id": "1f93b51b29ff3122",
+            "id": "f09cdb354a1a5a78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "700 Views/Ongoing Tasks.md",
+                "file": "700 Views/Planned Tasks (View).md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "a60a9d9d8c4f7f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Ongoing Tasks (View).md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "882dd76fef569fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "700 Views/Habits (View).md",
                 "mode": "preview"
               }
             }
@@ -191,20 +222,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282,
-    "collapsed": true
+    "width": 282
   },
-  "active": "f09cdb354a1a5a78",
+  "active": "9f985d914e247766",
   "lastOpenFiles": [
     "000 Inbox/00 ❗ Readme.md",
+    "00 🏠 Main Dashboard.md",
+    "600 Resources/Fundamentals of LDP.md",
+    "README.md",
     "600 Resources/Working with LDP.md",
+    "600 Resources/Philosophy - How to Approach LDP.md",
     "600 Resources/Tasks.md",
-    "600 Resources/Simple Integration Into Obsidian.md",
-    "200 Disciplines/210 🎀 Well-being (EXAMPLE)/Random Note of Abundant Information (EXAMPLE).md",
-    "100 Projects/Setup/13 🎎 Ikigai Expansion.md",
-    "100 Projects/Setup/12 🔂 Convergence to Ikigai.md",
-    "100 Projects/Setup/11 🔀 Divergence to Disciplines.md",
     "100 Projects/Setup/00 🧰 Setup.md",
-    "200 Alignment/210 Daily/2021-10-27.md"
+    "600 Resources/Planned Tasks.md",
+    "600 Resources/Life (LDP).md"
   ]
 }

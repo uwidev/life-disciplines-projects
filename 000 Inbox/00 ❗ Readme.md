@@ -1,14 +1,14 @@
 ---
-aliases: ❗ Readme
+aliases: [❗ Readme, LDP]
 tags: [ info ]
-version: 0.2
+version: 0.3
 ---
 # Hello!
-Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere. 
+Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere.
 
-It's an attempt to redefine one's relationship with work by reducing [[Friction]] and increasing velocity towards their intended life's purpose ([[Ikigai]]).
+LDP is an attempt to redefine one's relationship with work by reducing [[Friction]], eventually creating velocity towards their declared life's purpose ([[Ikigai]]).
 
-LDP takes inspiration from many places, pulling the best ideas and mashing them together. Concepts included can be sourced from, but not including:
+LDP takes inspiration from many places, pulling the best ideas and mashing them together. Concepts are sourced from, but not limited to:
 - [[Ikigai]]
 - [[Getting Things Done]]
 - [[Pillars, Pipelines, Vaults (PPV)]]
@@ -22,13 +22,9 @@ This note serves to explain the fundamental theory of LDP.
 
 ## Preface
 ### Who is this for?
-LDP is a life-management framework for individuals who would like to create mobility towards what they want to achieve in their lifetime. 
+LDP is a life-management framework for those who find themselves distracted by the modern world. LDP will create meaning (Life), direction (Disciplines), and action (Projects). If you are missing either of these, you may find LDP useful.
 
-Fully utilizing LDP requires a moderate amount of setup, as one needs to go through the process of self-evaluation to discover their personal life values and your capabilities. It is possible to forgo this process if one has already fleshed out their life values in the past. It is also possible to set things up as you go, though you may need to make large adjustments in the future, especially if you plan to automate your workflow.
-
-If you're looking for an out-of-the-box, complete system to work on immediately, this may not be for you.
-
-This framework can be applied outside of Obsidian if desired.
+Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection). You can post-pone this step if needed If need something working now.
 
 ### What can you get from this?
 - [[Philosophy - How to Approach LDP|How you should approach LDP]]
@@ -42,7 +38,7 @@ This framework can be applied outside of Obsidian if desired.
 Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/xSaj5Cc5GZ). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm).
 
 ## More about uwi
-I am a solo indie game developer with a mission of making people cry, but not through of sadness, but through sheer beauty. As of 2021, October 6, I am planning my workflow for game development, hence LDP.
+I am a solo indie game developer with a mission of creating beautiful experiences. I want to make people cry, but not through of sadness, but through sheer beauty. As of 2021, October 29, I am planning my workflow for game development, hence LDP.
 
 If you're interested in following me, please consider following my journey on game development, among other things, follow me on [twitter](https://twitter.com/uwidev). Also, please consider donating at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.
 

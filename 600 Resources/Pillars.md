@@ -3,7 +3,7 @@ aliases: Pillar
 tags: [ info, productivity, alignment ]
 ---
 # Pillars
-**Pillars** are Values, Philosophies, Foundations, etc, that give direction and constraints to life or a [[Projects|Project]]. 
+**Pillars** are Values, Philosophies, Foundations, etc, that give direction and constraints to life or a [[Disciplines|Discipline]]. 
 
 Having direction opens up the vast future, but since it's near infinite, they also act as constraints to mitigate Decision Paralysis.
 

@@ -3,14 +3,12 @@ aliases: Discipline
 tags: [ info, productivity ]
 ---
 # Disciplines
-A **Discipline** is a pathway of [[Life (LDP)|Life]]. Disciplines have a set of values, called [[Pillars]] that when combined forms a [[Dynamics|Dynamic]]. A **Dynamic** is a greater goal or meaning that is the resulting effect of Pillars. The Dynamic is what drives future projects and Ikigai.
+A **Discipline** is a pathway of [[Life (LDP)|Life]]. Disciplines have a set of [[Pillars]] that when combined forms a [[Dynamics|Dynamic]].
+
+Some disciplines may be considered as [[Ikigai]].
 
 ## Scoping
-Disciplines are unique such that there is no majority overlap in skill-set or setting.
-
-For example, Game Development and Programming can be separate Disciplines because although Game Development involves programming, Programming does not largely involve Game Development.
-
-On the other hand, Physical Health and Mental Health go hand in hand and largely affect each other. In this case, both Disciplines should be grouped as Health. You can also argue that Health is a part of a bigger picture: Well-Being.
+Disciplines should be distinguishable from each other. You should not have **Mental Health** and **Well-Being** since the two are tightly woven together. One exception is if you specialize in Mental Health for school, then it may be better to separate the two.
 
 ## Relations and Placement
 Disciplines are immediately related to your [[Ikigai|Life]], as Disciplines are the components of one's lifestyle.

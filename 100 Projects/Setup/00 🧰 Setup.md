@@ -6,16 +6,18 @@ status: Planned
 [[210 🎀 Well-being (EXAMPLE)]]
 # 🧰 Setup
 ## Abstract
-This is a top-down approach for personal exploration to setup LDP. You will be shown several questions. Please answer them the best you can. Fear not, no one will see your answers, they are yours and yours only (unless you share them, of course).
+This is a top-down approach for personal exploration to setup LDP. You will be shown several questions. Please answer them the best you can. These are your answers and yours alone.
 
-> **You do not need to follow the tasks to set up LDP. So long as you understand the philosophy and core components (and probably meet the Completion Criteria below), you will be fine**
+How long this takes depends on how deep you dive into fleshing out your life and disciplines. I suggest doing just enough and polish later, as is stated in one of the [[Philosophy - How to Approach LDP#Just Enough For Now Polish Later|LDP Philosophies]]. Assuming you have done little to no personal exploration, try to aim for under 1 hour.
+
+> You do not need to follow the following tasks to set up LDP. With some creativity, so long as you understand the philosophy and core components (and probably meet the Completion Criteria below), you will be fine if you experiment on your own.
 
 ## Objective
 Have a better understanding of your own life and set up Life-Disciplines-Projects.
 
 ## Completion Criteria
 **This project is considered complete when the following Requirements are met.**
-- [ ] [[99 💗 Life|💗 Life]] has been defined
+- [ ] [[400 💗 Life|💗 Life]] has been defined
 	- [ ] Life have Pillars 
 	- [ ] Life have an emerging Dynamic
 - [ ] Disciplines have been thought of
@@ -27,7 +29,9 @@ Have a better understanding of your own life and set up Life-Disciplines-Project
 
 ## Tasks
 ### Raw
-- [ ] #task Check out [[00 ❗ Readme|❗ Readme]] #ongoing 
+- [ ] #task Learn how to set tasks as [[Tasks#Planned|planned]] #planned #ongoing 
+- [ ] #task Learn how to set tasks as [[Tasks#Ongoing|ongoing]] #planned #ongoing 
+- [ ] #task Check out [[00 ❗ Readme|❗ Readme]] #planned
 - [ ] #task Start and finish [[10 💗 Defining Life]]
 - [ ] #task Define your [[10 💗 Defining Life#Life Pillars]]
 - [ ] #task Define your [[10 💗 Defining Life#Life Dynamic]]

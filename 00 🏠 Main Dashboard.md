@@ -3,10 +3,26 @@ aliases: 🏠 Main Dashboard
 tags: [ dashboard ]
 ---
 # 🏠 Main Dashboard
-## Disciplines
-```dataview
-LIST
-FROM #discipline 
+## Ongoing Tasks
+```tasks
+not done 
+description includes #ongoing
+path does not include 800 Templates
+```
+
+## Planned
+```tasks
+not done 
+description includes #planned
+description does not include #ongoing
+description does not include #hb
+path does not include 800 Templates
+```
+## Habits
+```tasks
+not done
+description includes #hb
+due today
 ```
 
 ## Projects
@@ -17,23 +33,10 @@ TABLE WITHOUT ID
 FROM #project 
 ```
 
-## Ongoing Tasks
-```tasks
-not done 
-description includes #ongoing
-path does not include 800 Templates
-```
-
-## To-do
-```tasks
-not done
-description does not include EXAMPLE
-path does not include 800 Templates
-```
-```tasks
-not done 
-description includes EXAMPLE
-path does not include 800 Templates
+## Disciplines
+```dataview
+LIST
+FROM #discipline 
 ```
 
 ## Completed
