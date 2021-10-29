@@ -73,6 +73,9 @@ Also consider having **active reminders** (e.g. an alarm) for these habits, as c
 
 See [[Flossing (Habit)]] as an example.
 
+### Tagging Notes
+See [[Note Tags]].
+
 ## Support or Say Thanks
 Join the Life-Disciplines-Projects Discord server [here](https://discord.gg/jAYuGaEvJb). Also consider joining the official Obsidian Discord [here](https://discord.com/invite/veuWUTm).
 

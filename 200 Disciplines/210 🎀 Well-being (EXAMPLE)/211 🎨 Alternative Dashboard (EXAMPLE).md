@@ -2,6 +2,7 @@
 aliases: 
 tags: [dashboard]
 ---
+[[210 🎀 Well-being (EXAMPLE)]]
 # 🎨 Alternative Dashboard (EXAMPLE)
 Fiddle-dee-doo, here is a dashboard that has some other relevant information specifically for working with this discipline.
 

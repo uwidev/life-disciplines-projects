@@ -9,7 +9,7 @@ ikigai:
 dynamic: "To achieve a high state of well-being for longevity and prosperity."
 # See the top of [[12 🔂Convergence to Disciplines]] note on what ikigai is
 ---
-[[00 🏠 Main Dashboard]]
+[[00 🏠 Main Dashboard]] | [[211 🎨 Alternative Dashboard (EXAMPLE)]]
 # 🎀 Well-being (EXAMPLE)
 ## Abstract
 Well-being is the quality of life someone has the potential to have, as well as their current state of affairs. This includes mental health, physical health, functional material possession, social, spirituality, and more.

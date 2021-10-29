@@ -2,6 +2,7 @@
 aliases: 🗃️ Master Backlog
 tags: [dashboard]
 ---
+[[00 🏠 Main Dashboard|🏠 Main Dashboard]]
 # 🗃️ Master Backlog
 ```tasks
 not done 
