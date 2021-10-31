@@ -21,7 +21,7 @@ Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection)
 ## Premise
 Life-Disciplines-Projects are organized as follows.
 
-![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/ca2e336dc66250eca24ad041a87a40095f30098f/600%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
+![LDP Organization](https://github.com/uwidev/life-disciplines-projects/blob/main/600%20Resources/Habits%2C%20Life%2C%20Disciplines%2C%20Projects.drawio.png)
 
 LDP is organized as a system of components, which allows for routine alignment of component to it's higher context. Arrows represent "X is created from  Y".
 
