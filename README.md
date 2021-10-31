@@ -28,8 +28,11 @@ LDP is organized as a system of components, which allows for routine alignment o
 > Resources (PKM) → LDP (Everything below this) ↴↰
 >> Tasks → Core (Everything below this) ↴↰
 >>> Life → Sense of Self
+>>> 
 >>> Habits → Life/Disciplines
+>>> 
 >>> Disciplines → Life
+>>> 
 >>> Projects → Disciplines
 
 ## Approach and Philosophy
