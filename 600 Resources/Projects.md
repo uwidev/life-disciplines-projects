@@ -3,7 +3,7 @@ aliases: Project
 tags: [ info, productivity ]
 ---
 # Projects
-**Projects** are derived from [[Disciplines]] and has some Objective that requires some set of [[Tasks]] to complete. These Projects should make progress towards or uphold some [[Pillars|Pillar]] from the parent discipline.
+**Projects** are derived from [[Disciplines]] and have some Objective that requires some set of [[Tasks]] to complete. These Projects should make progress towards or uphold some [[Pillars|Pillar]] from the parent discipline.
 
 Projects should strongly fit into one Discipline, and if it seems a Project could fit in multiple, the Disciplines need to be reorganized to prevent overlapping dependency, where too many items from one discipline belong in another Discipline. Just combine the two or figure out some other way to have them clearly different.
 
@@ -15,7 +15,7 @@ While there isn't a real maximum on how big a Project is, it's suggested to be n
 ## Relations and Placement
 Projects should be placed within a dedicated projects folder.
 
-Tasks are largely derived from Projects to make lee-way towards meeting the Objective, which in term, meets the discipline's pillars and/or [[Dynamics|Dynamic]].
+Tasks are largely derived from Projects to make leeway towards meeting the Objective, which in term, meets the discipline's pillars and/or [[Dynamics|Dynamic]].
 
 ## Abstract
 Explains the context of the project. Generally discusses the following.
@@ -31,7 +31,7 @@ All Objectives should minimally answer the following questions.
 ## Completion Criteria
 Unlike [[Disciplines]], Projects should eventually come to an end and shouldn't run any longer than 1 month. Since there usually isn't a time-based ending point ([[True Deadlines|True Deadline]]), an end must be defined through some other means.
 
-For Projects, a Completion Criteria is a well-defined checklist that cumulate to a shift in the environment or creation of a deliverable. 
+For Projects, a Completion Criteria is a well-defined checklist that culminates in a shift in the environment or the creation of a deliverable. 
 
 Well-Defined as in, requirements can be clearly answered `Yes` or `No` if they have been met. These Requirements should align with the Core.
 

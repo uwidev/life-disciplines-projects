@@ -3,12 +3,12 @@ aliases: Discipline
 tags: [ info, productivity ]
 ---
 # Disciplines
-A **Discipline** is a pathway of [[Life (LDP)|Life]]. Disciplines have a set of [[Pillars]] that when combined forms a [[Dynamics|Dynamic]].
+A **Discipline** is a pathway of [[Life (LDP)|Life]]. Disciplines have a set of [[Pillars]] that when combined form a [[Dynamics|Dynamic]].
 
 Some disciplines may be considered as [[Ikigai]].
 
 ## Scoping
-Disciplines should be distinguishable from each other. You should not have **Mental Health** and **Well-Being** since the two are tightly woven together. One exception is if you specialize in Mental Health for school, then it may be better to separate the two.
+Disciplines should be distinguishable from each other. You should not have **Mental Health** and **Well-Being** since the two are tightly woven together. One possible exception might be if you specialize in Mental Health for school, then it may be better to separate the two.
 
 ## Relations and Placement
 Disciplines are immediately related to your [[Ikigai|Life]], as Disciplines are the components of one's lifestyle.
