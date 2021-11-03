@@ -37,9 +37,9 @@ The exact methods of how you align are up to you, but the main point is to force
 
 ### Core Components
 #### Resources
-[[Resources]] are your general useful notes and media that you can reference later. This is particularly useful if you wish to curate new ideas from existing ones, or if you want need reference material as reminders.
+[[Resources]] are your general useful notes and media that you can reference later. This is particularly useful if you wish to curate new ideas from existing ones, or if you need reference material as reminders.
 
-> This is not the place for extremely specific resources related to an LDP core component. A note specfically for an Programming project may only be useful for that project and no where else. This note should be archived under 📁`900 Archive`.
+> This is not the place for extremely specific resources related to an LDP core component. A note specfically for a Programming project may only be useful for that project and no where else. This note should be archived under 📁`900 Archive`.
 
 #### Tasks
 [[Tasks]] are items of action. To lessen friction, they should have an estimated work time less than 2 hours.
@@ -80,8 +80,8 @@ Habits can be thought of as repeating [[#Tasks]].
 #### Projects
 [[Projects]] are derived from Disciplines. 
 
-If Disciplines defined the direction, Projects generate the speed, resulting in velocity.
+If Disciplines define the direction, Projects generate the speed, resulting in velocity.
 
-Projects have a single objective, which should uphold or to make progress towards a Discipline's Pillars or Dynamics. Similar to Tasks, they should also have some sort of Completion Criteria to denote when this project is clearly completed.
+Projects have a single objective, which should uphold or make progress towards a Discipline's Pillars or Dynamics. Similar to Tasks, they should also have some sort of Completion Criteria to denote when this project is clearly completed.
 
-Projects should take no longer than an estimated month of work and no shorter than 2 hours to complete. *This is merely a suggestion to reduce friction.*
+Projects should take no more than an estimated month of work and no less than 2 hours to complete. *This is merely a suggestion to reduce friction.*

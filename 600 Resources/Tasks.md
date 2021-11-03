@@ -5,28 +5,28 @@ tags: [ info, productivity ]
 # Tasks
 **Tasks** are Actionable items with a clearly defined completion. You should be able to read this Task and trivially answer `Yes` or `No` as to if this Task is complete. 
 
-Tasks should work towards some Objective denoted in the corresponding [[Projects|Project]]; or uphold or works towards some [[Disciplines|Discipline]].
+Tasks should work towards some Objective denoted in the corresponding [[Projects|Project]]; or uphold or work towards some [[Disciplines|Discipline]].
 
-Tasks are Pull-based, meaning pull a task into your *Working On* list as you have more free hands, up to the [[#Ongoing]] limit. This concept of Pulling is similar to [[Kanban (Agile)|Kanban]]'s task management.
+Tasks are Pull-based, meaning you pull a task into your *Working On* list as you have more hands free, up to the [[#Ongoing]] limit. This concept of Pulling is similar to [[Kanban (Agile)|Kanban]]'s task management.
 
 ### Planned
-Tasks tagged with `#planned` are tasks in your queue. They are to be worked on sometime today, or soon. 
+Tasks tagged with `#planned` are tasks in your queue. They are to be worked on sometime today, or soon.
 
 Try to have at max 5 planned tasks at any given time.
 
-Consder checking out [[Planned Tasks]].
+Consider checking out [[Planned Tasks]].
 
 ### Ongoing
-Sets this task is currently being worked on should have the `#ongoing` tag on it.
+When a task is currently being worked on it should have the `#ongoing` tag on it.
 
-All `#ongoing` Tasks will be aggregated by Obsidian Tasks.
+All `#ongoing` Tasks will be aggregated by [Obsidian Tasks](https://github.com/schemar/obsidian-tasks).
 
 There should be no more than 3 `#ongoing` tasks at any time. This is to reduce friction.
 
 See [[Ongoing Tasks]] on what constitutes as an `#ongoing` task.
 
 ## Relation
-Tasks are largely related to [[Projects]] as Tasks make lee-way towards its Objectives.
+Tasks are largely related to [[Projects]] as Tasks make leeway towards their Objectives.
 
 Tasks may also be a part of Disciplines and Life as needed.
 
@@ -41,7 +41,7 @@ To allow for aggregation of tasks through the [Obsidian Tasks](https://github.co
 `< >` - required
 `[ ]` - optional
 
-Due dates are to be handled by the [[Due]] template and [Natural Language Dates in Obsidian](https://github.com/argenos/nldates-obsidian.
+Due dates are to be handled by the [[Due]] template and [Natural Language Dates in Obsidian](https://github.com/argenos/nldates-obsidian).
 
 > **Feel free to not use Obsidian Tasks. Do what works for you.**
 

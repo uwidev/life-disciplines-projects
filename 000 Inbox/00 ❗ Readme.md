@@ -24,7 +24,7 @@ This note serves to explain the fundamental theory of LDP.
 ### Who is this for?
 LDP is a life-management framework for those who find themselves distracted by the modern world. LDP will create meaning (Life), direction (Disciplines), and action (Projects). If you are missing either of these, you may find LDP useful.
 
-Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection). You can post-pone this step if needed If need something working now.
+Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection). You can post-pone this step if you need something working now.
 
 ### What can you get from this?
 - [[Philosophy - How to Approach LDP|How you should approach LDP]]
