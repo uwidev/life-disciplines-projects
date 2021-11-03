@@ -8,7 +8,7 @@ LDP is an attempt redefine ones relationship with work by reducing friction and 
 ### Who is this for?
 LDP is for those who find themselves distracted by the modern world. LDP will create meaning (Life), direction (Disciplines), and action (Projects). If you are missing either of these, you may find LDP useful.
 
-Fully utilizing LDP requires a moderate amount of setup (mainly self-reflection). You can post-pone this step if needed If need something working now.
+Fully utilizing LDP requires a moderate amount of setup, mainly in the form of self-reflection. If you've done this recently, you can post-pone this you you need something working right away.
 
 ### What can you get from this?
 - How you should approach LDP
