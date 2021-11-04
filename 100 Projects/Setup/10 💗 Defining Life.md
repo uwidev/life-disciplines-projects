@@ -9,7 +9,7 @@ These series of notes are a guided setup on how to define:
 - Your life dynamic
 - Your Disciplines
 
-You do not have to go through all steps of this document, especially when things seem trivial. So long as you sufficiently achieve above you are ready to start working within LDP.
+You do not have to go through all steps of this document, especially when things seem trivial. So long as you sufficiently achieve the above you are ready to start working within LDP.
 
 > If you need to start your own work right now, skip to [[11 🔀 Divergence to Disciplines#Finalizing]] and define just your disciplines. You can define your life pillars and dynamic later on.
 
@@ -22,7 +22,7 @@ You do not have to go through all steps of this document, especially when things
 ## Life Pillars
 Life Pillars are [[Pillars]] under the context of your everyday life. They should reflect **your** ideals, beliefs, and values.
 
-They should be defined in the most generalized, fundamental form as possible. 
+They should be defined in the most generalized, fundamental form possible. 
 
 You can have any amount of Life Pillars, but do consider having just a handful so you can always remember them.
 
@@ -55,7 +55,9 @@ If you're stuck, consider answering the questions below within the [[400 💗 Li
 ## Life Dynamic
 Life [[Dynamics|Dynamic]] is the emerging result of the combined effects of your Life Pillars. Pillars pull you towards some direction of character. This character is your dynamic.
 
-Your life dynamic should be summarized into one sentence, and should thoroughly the resulting character. This is the personality that you currently are or strive to be.
+Your life dynamic should be summarized into one sentence, and should thoroughly describe the character resulting from your Pillars. This is the personality that you currently are or strive to be.
+
+An example could be: A loving parent of wisdom and pride who puts their children above all.
 
 ### What To Do
 Determine the emerging character from your defined pillars. Write this under [[400 💗 Life#Life Dynamic]].
