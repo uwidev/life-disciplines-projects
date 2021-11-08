@@ -18,8 +18,8 @@ Have a better understanding of your own life and set up Life-Disciplines-Project
 ## Completion Criteria
 **This project is considered complete when the following Requirements are met.**
 - [ ] [[400 💗 Life|💗 Life]] has been defined
-	- [ ] Life have Pillars 
-	- [ ] Life have an emerging Dynamic
+	- [ ] Life has Pillars 
+	- [ ] Life has an emerging Dynamic
 - [ ] Disciplines have been thought of
 	- [ ] Various folders to house work related to Disciplines have been created
 - [ ] Dashboard exists for Disciplines
@@ -42,7 +42,7 @@ Have a better understanding of your own life and set up Life-Disciplines-Project
 - [ ] #task Define Discipline's Abstract
 ---
 - [ ] #task Start and finish [[12 🔂 Convergence to Ikigai]]
-- [ ] #task Setup YAML frontmatter for Disciplines
+- [ ] #task Setup YAML front matter for Disciplines
 ---
 - [ ] #task Start and finish [[13 🎎 Ikigai Expansion]]
 - [ ] #task Complete [[13 🎎 Ikigai Expansion#The Past]]
