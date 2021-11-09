@@ -16,7 +16,12 @@ LDP is a system of components. Arrows represent "X is created from $\rightarrow$
 >>> Disciplines → Life
 >>> Projects → Disciplines
 
-In English, Projects are create from from Disciplines. Disciplines are created from based on your Life. Habits are created based on how you live your Life and its derived Disciplines. Tasks make up the core of LDP, and the core of LDP makes up the Tasks themselves. Resources (Personal Knowledge Management) are pulled into LDP as needed or pushed out.
+In proper writing...
+- Projects are created from Disciplines.
+- Disciplines are created from your Life.
+- Habits are created based on how you live your Life and is derived Disciplines.
+- Tasks make up the core of LDP, and the core of LDP makes up the Tasks themselves.
+- Resources (Personal Knowledge Management) are pulled into LDP as needed or pushed out.
 
 ### Alignment
 Given the strucure above, at times your work may cause misalignment. A once simple project may spiral out of control. Thus, it's important to have routine alignment.
@@ -26,7 +31,7 @@ Alignment is a process of check-and-balances to ensure work is relevant to it's 
 > "Is this task, project, or discipline relevant given the bigger picture?" 
 > — <cite>You, hopefully</cite>
 
-It's recommended you have a routine to ease the friction of the overhead.
+It's recommended you have a routine to ease the friction of this additional overhead.
 
 > **Tasks $\rightarrow$ Projects:** Daily
 > **Projects $\rightarrow$ Disciplines:** Weekly
@@ -37,9 +42,9 @@ The exact methods of how you align are up to you, but the main point is to force
 
 ### Core Components
 #### Resources
-[[Resources]] are your general useful notes and media that you can reference later. This is particularly useful if you wish to curate new ideas from existing ones, or if you need reference material as reminders.
+[[Resources]] are your useful general notes and media that you can reference later. This is particularly useful if you wish to curate new ideas from existing ones, or if you need reference material.
 
-> This is not the place for extremely specific resources related to an LDP core component. A note specfically for a Programming project may only be useful for that project and no where else. This note should be archived under 📁`900 Archive`.
+> This is not the place for extremely specific resources related to an LDP core component. A note specfically for a Programming project may only be useful for that project and no where else. This note should stay within the project folder and  archived under 📁`900 Archive` when finished.
 
 #### Tasks
 [[Tasks]] are items of action. To lessen friction, they should have an estimated work time less than 2 hours.

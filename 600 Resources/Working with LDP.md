@@ -7,9 +7,9 @@ tags: [ info, productivity ]
 ## Setup
 There's a moderate amount of overhead before this system becomes flows like butter. You first need to understand the [[Fundamentals of LDP#Core Components]]. Also consider reading [[Philosophy - How to Approach LDP|LDP Philosophy]].
 
-There are three approaches to set up your LDP.
+There are three approaches to setting up your LDP.
 1. Bottom-up
-	- Define disciplines based on your current projects and skillsets. Define what kind of life a person has given those disciplines. Further flesh out what you value in life. Useful if you haven't done much personal exploration.
+	- Define disciplines based on your current projects and skillsets. Define what kind of life a person has, given those disciplines. Further flesh out what you value in life. Useful if you haven't done much personal exploration.
 2. Top-down
 	- Define what you find valuable when navigating life. Define disciplines that allow for that navigation and that would uphold the life you defined. Useful if you hold dear to certain values.
 3. Wide and Flat **(Recommended)**
@@ -34,9 +34,11 @@ Create a note in the related lowest-ordered context folder (or a global Inbox) a
 For example, if you have disciplines `Well-Being` and a project `Meditation Course`, ramblings related to the meditation course would go under the project folder, and ramblings about behavior and dieting goes under the discipline.
 
 ### I finished my task and/or have time to do work.
-Look at any of your incompleted Tasks in the system and choose a small set (<3) that can fit your time constraint. Set it as **Ongoing** and work on it, or...
+Look at any of your [[Planned Tasks]] Tasks and choose a small set that can fit your time constraint. Set it as **Ongoing** and work on it, or...
 
-Look for any existing **Ongoing** Task. Work on it.
+Look for any existing **Ongoing** Task. Work on it, or...
+
+Look at the backlog of tasks, set as **Ongoing.** Work on it.
 
 ### I need to make sure my work is still relevant.
 Do [[Fundamentals of LDP#Alignment|Alignment]].

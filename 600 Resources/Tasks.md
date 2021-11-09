@@ -10,18 +10,18 @@ Tasks should work towards some Objective denoted in the corresponding [[Projects
 Tasks are Pull-based, meaning you pull a task into your *Working On* list as you have more hands free, up to the [[#Ongoing]] limit. This concept of Pulling is similar to [[Kanban (Agile)|Kanban]]'s task management.
 
 ### Planned
-Tasks tagged with `#planned` are tasks in your queue. They are to be worked on sometime today, or soon.
+Tasks tagged with `#planned` are tasks in your [[Planned Tasks (View)]]. You can find this on the bottom of the right side panel.
 
-Try to have at max 5 planned tasks at any given time.
+Planned tasks are to be worked on sometime today, or soon, with no more than 5 planned tasks at any time.
 
-Consider checking out [[Planned Tasks]].
+Consider checking out [[Planned Tasks]] for further details.
 
 ### Ongoing
 When a task is currently being worked on it should have the `#ongoing` tag on it.
 
 All `#ongoing` Tasks will be aggregated by [Obsidian Tasks](https://github.com/schemar/obsidian-tasks).
 
-There should be no more than 3 `#ongoing` tasks at any time. This is to reduce friction.
+There should be no more than 3 `#ongoing` tasks at any time.
 
 See [[Ongoing Tasks]] on what constitutes as an `#ongoing` task.
 

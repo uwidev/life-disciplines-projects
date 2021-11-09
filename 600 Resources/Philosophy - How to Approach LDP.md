@@ -35,7 +35,7 @@ Generally, we prefer the simple over the complex.
 
 Have a smaller selection of choices is better than a bigger one to avoid [[Decision Paralysis]]. The choices themselves should be small as well – when possible.
 
-> Deciding on 3 out of 5 things to do today is easier than 3 out of 10.
+> Deciding on 3 out of 5 things is easier than 3 out of 10.
 > 
 > No one wants to do work that takes days to complete. On the other hand, work for 30 minutes doesn't sound too bad.
 
@@ -58,7 +58,7 @@ Touch a bit of everything to understand its importance to the bigger picture (an
 
 > Do not perfect one component and neglect to work on the rest. Do not go deep without confirming the truth. Do not put all your eggs in one basket. 
 
-Most of your work can be thought of as [[Systems Thinking|Systems]]. The various elements of your work multiply with each other, creating emergence and dynamics. 
+Most of your work can be thought of as [[Systems Thinking|Systems]]. The various elements of your work multiply with each other, creating emergence and [[Dynamics]]. 
 
 > "The whole is greater than the sum of the parts."
 > — <cite>Aristotle</cite>
