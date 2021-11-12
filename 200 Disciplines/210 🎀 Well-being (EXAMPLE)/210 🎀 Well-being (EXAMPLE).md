@@ -15,7 +15,17 @@ dynamic: "To achieve a high state of well-being for longevity and prosperity."
 Well-being is the quality of life someone has the potential to have, as well as their current state of affairs. This includes mental health, physical health, functional material possession, social, spirituality, and more.
 
 ## Importance and Relevance
-How is this Discipline important and relevant to you? How and why did you choose the Ikigai characteristics above under the frontmatter YAML? What is your purpose of having this as a Discipline?
+Well-being is important because we cannot thrive if we have low well-being. We would not be living a rich life, even if we were rich in material possessions.
+
+This is relevant for me because I have had trouble letting go of the little things in life. Once I realized they served me no positive functional benefit, I understood.
+
+## Pillars
+- Take care of yourself before others
+- Value flexibility over sticking to a plan
+- Do not set your expectations too high
+
+## Dynamic
+To live life to the fullest, carefree and adaptive with my well-being, first.
 
 ## Tasks
 ### Raw
