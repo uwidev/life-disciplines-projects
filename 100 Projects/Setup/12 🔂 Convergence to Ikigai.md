@@ -102,7 +102,7 @@ Defined as what you can be paid for and what you are skilled at.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline", dynamic as "Dynamic"
 FROM "200 Disciplines"
-WHERE contains(tags, "discipline") and contains(ikigai, "love") and contains(ikigai, "money")
+WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ikigai, "money")
 ```
 #### Passion
 Defined as what you are skilled at and what you love.
@@ -138,7 +138,7 @@ These are things that you know are genuinely useful, that you love, and that you
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline", dynamic as "Dynamic"
 FROM "200 Disciplines"
-WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ikigai, "love") and contains(ikigai, "world") and !contains(ikigai, "money")
+WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ikigai, "love") and contains(ikigai, "money") and !contains(ikigai, "skill")
 ```
 
 #### Valueless Delight
@@ -146,7 +146,7 @@ You love doing these things. People understand its significance and recognize th
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline", dynamic as "Dynamic"
 FROM "200 Disciplines"
-WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ikigai, "love") and contains(ikigai, "money") and !contains(ikigai, "world")
+WHERE contains(tags, "discipline") and contains(ikigai, "skill") and contains(ikigai, "love") and contains(ikigai, "world") and !contains(ikigai, "money")
 ```
 
 ### Potential Ikigai
