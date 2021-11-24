@@ -39,7 +39,7 @@ Answer what you personally believe to be correct, not what you've been told.
 `Answer`
 
 ### Skill
-#### What is what does it mean to be skilled at something?
+#### What does it mean to be skilled at something?
 `Answer`
 
 #### Using that definition, what are some skills that you have? How are you skilled?
@@ -55,14 +55,14 @@ Answer what you personally believe to be correct, not what you've been told.
 #### Using that definition, what activities can you semi-confidently say will make you reach that minimally financially stability?
 `Answer`
 
-#### In the far future, you probably have greater ideas (e.g. Family, Housing, Cars, etc.). What activities do you think will actually help you reach them within a reasonable timeframe?
+#### In the far future, you probably have greater ideas (e.g. Family, Housing, Cars, etc.). What activities do you think will actually help you reach them within a reasonable time frame?
 `Answer`
 
 ### World
-#### What do you know the world needs?
+#### What do you know that the world needs?
 `Answer`
 
-#### What do you think is the world is missing, but has not yet realized?
+#### What do you think the world is missing, but has not yet realized?
 `Answer`
 
 #### Using your answers above, what activities do you believe fulfill the needs of the world? How so?
@@ -96,8 +96,8 @@ When you are done, make folders for disciplines under `200 Disciplines/`. Consid
 
 Once the folder is created, create a [[Dashboards|Dashboard]] that will serve as the master note for that discipline. Name it whatever you want, but I suggest naming it the same as the folder name.
 
-## Fleshing Disciplines
-For each discipline dashboard, add minimally the following information:
+## Fleshing out Disciplines
+For each discipline dashboard, add at least the following information:
 - A short abstract of what this discipline is
 - Why and how this discipline is relevant and important 
 

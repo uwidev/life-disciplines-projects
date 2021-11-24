@@ -142,7 +142,7 @@ WHERE contains(tags, "discipline") and contains(ikigai, "world") and contains(ik
 ```
 
 #### Valueless Delight
-You love doing these things. People understand its significance and recognize that you're a pioneer at this. However, they this is something that isn't really sustainable financially.
+You love doing these things. People understand its significance and recognize that you're a pioneer at this. However, this is something that isn't really sustainable financially.
 ```dataview
 TABLE WITHOUT ID link(file.name, file.aliases) as "Discipline", dynamic as "Dynamic"
 FROM "200 Disciplines"
