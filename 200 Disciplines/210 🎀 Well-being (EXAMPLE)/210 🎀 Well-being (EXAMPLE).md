@@ -7,7 +7,7 @@ ikigai:
   - skill
   - money
 dynamic: "To achieve a high state of well-being for longevity and prosperity."
-# See the top of [[12 🔂Convergence to Disciplines]] note on what ikigai is
+# See the top of [[12 🔂Convergence to Disciplines]] note on what Ikigai is
 ---
 [[00 🏠 Main Dashboard]] | [[211 🎨 Alternative Dashboard (EXAMPLE)]]
 # 🎀 Well-being (EXAMPLE)

@@ -35,7 +35,7 @@ We will now begin to expand on them below. Make sure you at least defined the ab
 `Answer`
 
 ## The Present
-### How strongly do your ikigai disciplines' pillars align with your life pillars? What about their dynamics? Do you think this is a good thing? Why?
+### How strongly do your Ikigai disciplines' pillars align with your life pillars? What about their dynamics? Do you think this is a good thing? Why?
 `Answer`
 
 ### Are you partaking in these disciplines yet? What are you doing?
@@ -51,7 +51,7 @@ We will now begin to expand on them below. Make sure you at least defined the ab
 
 > If your answer does not allow room for sufficient growth, especially over your lifetime, you should consider re-framing this discipline.
 
-### What will you do right now to make velocity towards your ikigai discipline?
+### What will you do right now to make velocity towards your Ikigai discipline?
 `Answer`
 
 ## Epilogue

@@ -88,7 +88,7 @@ Answer what you personally believe to be correct, not what you've been told.
 `Answer`
 
 ## Finalizing
-**What are your finalized, grouped disciplines from this exercise? What characteristics of ikigai do these disciplines have (love, world, money, skill)?**
+**What are your finalized, grouped disciplines from this exercise? What characteristics of Ikigai do these disciplines have (love, world, money, skill)?**
 `Answer`
 
 ## Initial Creation
@@ -106,4 +106,4 @@ Feel free to add more content.
 I highly suggest loosely defining a dynamic for the next step. This can be a shortened form of the abstract. Pillars are not required.
 
 ## Next Steps
-You now have opportunities for meeting and sustaining your Life Pillars. But now you need to set a direction, your ikigai. See [[12 🔂 Convergence to Ikigai|Convergence to Ikigai]]
+You now have opportunities for meeting and sustaining your Life Pillars. But now you need to set a direction, your Ikigai. See [[12 🔂 Convergence to Ikigai|Convergence to Ikigai]]

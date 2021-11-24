@@ -56,7 +56,7 @@ You should also only have no more than 3 ongoing tasks at any given time to furt
 #### Life
 [[Life (LDP)|Life]] is the foundation of everything. LDP is meant to create mobility towards your Life [[Pillars]] and Life [[Dynamics|Dynamic]]. It is who you ideally want to be, not just who you are now.
 
-[[Ikigai]] is a concept that literally translates into "a reason for being". You want to discover your ikigai. It will eventually become a Discipline to create direction.
+[[Ikigai]] is a concept that literally translates into "a reason for being". You want to discover your Ikigai. It will eventually become a Discipline to create direction.
 
 Life is infinite but ever-changing.
 

@@ -1,7 +1,7 @@
 # Life Discipline Projects
-Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere. 
+Welcome to Life-Disciplines-Projects (LDP), a life-management framework designed by [uwi](https://twitter.com/uwidev). This framework's main application and demo is through [Obsidian](https://obsidian.md/), but being a framework, it can also be applied elsewhere.
 
-LDP is an attempt redefine ones relationship with work by reducing friction and increasing velocity towards their ikigai, defined as their reason for being. It takes inspiration from Getting Things Done, Pillars Pipelines and Vaults, and Agile (Scrum, Kanban), among many others.
+LDP is an attempt redefine ones relationship with work by reducing friction and increasing velocity towards their Ikigai, defined as their reason for being. It takes inspiration from Getting Things Done, Pillars Pipelines and Vaults, and Agile (Scrum, Kanban), among many others.
 
 **I have provided all of this content for free, so please consider donating to me at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.**
 

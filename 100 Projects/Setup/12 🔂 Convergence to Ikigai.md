@@ -21,7 +21,7 @@ ikigai:
 > 
 > If you're unfamiliar with YAML, press F1 and check out the `[[YAML front matter]]` note.
 
-Now start to list values to mirror its ikigai characteristics as noted under [[11 🔀 Divergence to Disciplines#Finalizing]]. For example, if you have a discipline you `love` and can be compensated for in `money`, it should look like the following on the top of the note.
+Now start to list values to mirror its Ikigai characteristics as noted under [[11 🔀 Divergence to Disciplines#Finalizing]]. For example, if you have a discipline you `love` and can be compensated for in `money`, it should look like the following on the top of the note.
 
 ```YAML
 ---
@@ -162,18 +162,18 @@ You may have multiple potential Ikigais. However, it's important to set focus to
 
 Ikigai is your direction, and if the Ikigais point towards a similar direction, you may find yourself not reaching full potential. Lots of time and effort could be wasted.
 
-> While it's possible to choose disciplines that are not potential ikigais, understand that it will require the initial investment of time and effort to fulfill the missing Ikigai characteristics.
+> While it's possible to choose disciplines that are not potential Ikigais, understand that it will require the initial investment of time and effort to fulfill the missing Ikigai characteristics.
 
-Now's the time to also reflect the potential ikigais **`Importance and Relevance`** section.
+Now's the time to also reflect the potential Ikigais **`Importance and Relevance`** section.
 
-**So, what will be your primary ikigai(s)?**
+**So, what will be your primary Ikigai(s)?**
 `Answer`
 
 > I suggest you add a note tag: `#ikigai` to that discipline's dashboard, or at least note it under [[400 💗 Life|💗 Life]] what your Ikigai is.
 
 ## Next Steps
-Your ikigai is now set. This will be your focus moving forwards. 
+Your Ikigai is now set. This will be your focus moving forwards.
 
-Your ikigai may change in the future, and if so you can always run through this or a similar process. 
+Your Ikigai may change in the future, and if so you can always run through this or a similar process.
 
-For now, we need to further understand what makes this ikigai discipline resonate for you. See [[13 🎎 Ikigai Expansion|🎎 Ikigai Expansion]]
+For now, we need to further understand what makes this Ikigai discipline resonate for you. See [[13 🎎 Ikigai Expansion|🎎 Ikigai Expansion]]
