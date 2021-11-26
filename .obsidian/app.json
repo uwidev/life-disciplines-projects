@@ -5,18 +5,15 @@
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
-    "setup",
-    "Ikigai",
-    "Readme",
-    "frontmatter",
-    "Ikigai",
-    "Zettelkasten",
-    "ikigai",
-    "killsets ",
-    "skillsets",
     "codeblocks",
+    "frontmatter",
+    "Frontmatter",
+    "Ikigai",
     "Ikigais",
-    "ikigais",
-    "Frontmatter"
-  ]
+    "Readme",
+    "setup",
+    "skillsets",
+    "Zettelkasten"
+  ],
+  "spellcheck": true
 }
