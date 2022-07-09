@@ -5,6 +5,8 @@ LDP is an attempt redefine ones relationship with work by reducing friction and 
 
 **I have provided all of this content for free, so please consider donating to me at [ko-fi](https://ko-fi.com/uwidev) when you have the chance.**
 
+**LDP has been updated to [Memory Flow Interface](https://github.com/uwidev/memory-flow-interface).** There will be little to no more updates to this project, though it will still be up as it contains valuable resources for self-help and soul-searching.
+
 ### Who is this for?
 LDP is for those who find themselves distracted by the modern world. LDP will create meaning (Life), direction (Disciplines), and action (Projects). If you are missing either of these, you may find LDP useful.
 
